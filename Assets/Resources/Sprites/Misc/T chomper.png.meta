@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 71666760ca4d0754e944e6c70e1e44b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6578714185133898006
+    second: T chomper_0
+  - first:
+      213: -8319162075116459330
+    second: T chomper_1
+  - first:
+      213: -7915192355847114514
+    second: T chomper_2
+  - first:
+      213: -4724266234781926428
+    second: T chomper_3
+  - first:
+      213: 1312887589056989148
+    second: T chomper_4
+  - first:
+      213: -7524199187683960342
+    second: T chomper_5
+  - first:
+      213: -5181054587582559927
+    second: T chomper_6
+  - first:
+      213: 3182101065414451094
+    second: T chomper_7
+  - first:
+      213: -4861074021613481474
+    second: T chomper_8
+  - first:
+      213: 4023850568049395000
+    second: T chomper_9
+  - first:
+      213: -5807646345004000991
+    second: T chomper_10
+  - first:
+      213: 6419020229647211610
+    second: T chomper_11
+  - first:
+      213: 234414011722145255
+    second: T chomper_12
+  - first:
+      213: -4842444981770008986
+    second: T chomper_13
+  - first:
+      213: -8090707452544859222
+    second: T chomper_14
+  - first:
+      213: 1211797915430396711
+    second: T chomper_15
+  - first:
+      213: 1340846787499403440
+    second: T chomper_16
+  - first:
+      213: -4110655369839317962
+    second: T chomper_17
+  - first:
+      213: -435480416880248602
+    second: T chomper_18
+  - first:
+      213: 1139174646985667936
+    second: T chomper_19
+  - first:
+      213: -4696370865314994190
+    second: T chomper_20
+  - first:
+      213: -2834447289328811684
+    second: T chomper_21
+  - first:
+      213: 9147128616331240382
+    second: T chomper_22
+  - first:
+      213: -4432330564530122758
+    second: T chomper_23
+  - first:
+      213: -4934892266258609982
+    second: T chomper_24
+  - first:
+      213: -2092174592987301456
+    second: T chomper_25
+  - first:
+      213: 1482710752985119156
+    second: T chomper_26
+  - first:
+      213: -180241427866437602
+    second: T chomper_27
+  - first:
+      213: 4920904148411535989
+    second: T chomper_28
+  - first:
+      213: -6968438116047415063
+    second: T chomper_29
+  - first:
+      213: 3782400185773951656
+    second: T chomper_30
+  - first:
+      213: 5135678910908650902
+    second: T chomper_31
+  - first:
+      213: -8131972672374070001
+    second: T chomper_32
+  - first:
+      213: 5417532877030225493
+    second: T chomper_33
+  - first:
+      213: 4881070126630658771
+    second: T chomper_34
+  - first:
+      213: 3704232047573281749
+    second: T chomper_35
+  - first:
+      213: 4545098691082255011
+    second: T chomper_36
+  - first:
+      213: 3695559423566204108
+    second: T chomper_37
+  - first:
+      213: 5864211600149057046
+    second: T chomper_38
+  - first:
+      213: 5280909182077448609
+    second: T chomper_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T chomper_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 377
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619bab322b94c4b50800000000000000
+      internalID: 6578714185133898006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 377
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba28c36b266c8c80800000000000000
+      internalID: -8319162075116459330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 378
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee078d42d76972290800000000000000
+      internalID: -7915192355847114514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 378
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb7373c3e8007eb0800000000000000
+      internalID: -4724266234781926428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 378
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7c2c76e40583210800000000000000
+      internalID: 1312887589056989148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 378
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae990d624bca49790800000000000000
+      internalID: -7524199187683960342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 333
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949cb319d423918b0800000000000000
+      internalID: -5181054587582559927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 331
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f9b6b3f08192c20800000000000000
+      internalID: 3182101065414451094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 268
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef159d2beeef98cb0800000000000000
+      internalID: -4861074021613481474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 268
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83586d9b5c697d730800000000000000
+      internalID: 4023850568049395000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 268
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129d0f06b68176fa0800000000000000
+      internalID: -5807646345004000991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 268
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c1b22b3e0f41950800000000000000
+      internalID: 6419020229647211610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 268
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed921b3d4ec04300800000000000000
+      internalID: 234414011722145255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 268
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666c93902fd2cccb0800000000000000
+      internalID: -4842444981770008986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 216
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa34575307808bf80800000000000000
+      internalID: -8090707452544859222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 218
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723a9c0a8cb21d010800000000000000
+      internalID: 1211797915430396711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 218
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b820239c05ab9210800000000000000
+      internalID: 1340846787499403440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 217
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ceca668b404f6c0800000000000000
+      internalID: -4110655369839317962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 217
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b63d3edcd4f9f0800000000000000
+      internalID: -435480416880248602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 170
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06536ba4e492fcf00800000000000000
+      internalID: 1139174646985667936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7e767949323deb0800000000000000
+      internalID: -4696370865314994190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 172
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ccf835350aa8d0800000000000000
+      internalID: -2834447289328811684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 171
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3eb33530121fe70800000000000000
+      internalID: 9147128616331240382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 171
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff4316c5d23d72c0800000000000000
+      internalID: -4432330564530122758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 169
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c845d841adb38bb0800000000000000
+      internalID: -4934892266258609982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 107
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9f4e0ea4a17f2e0800000000000000
+      internalID: -2092174592987301456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 107
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b97458f295a39410800000000000000
+      internalID: 1482710752985119156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 107
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1836365067af7df0800000000000000
+      internalID: -180241427866437602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 107
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572d0db30409a4440800000000000000
+      internalID: 4920904148411535989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 107
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e893bd24722b4f90800000000000000
+      internalID: -6968438116047415063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 107
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa8d6fcde8cd7430800000000000000
+      internalID: 3782400185773951656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695dc2d62c8954740800000000000000
+      internalID: 5135678910908650902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 57
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05a5f380fd652f80800000000000000
+      internalID: -8131972672374070001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 57
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556f266c271fe2b40800000000000000
+      internalID: 5417532877030225493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 57
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2679d4b6b0db340800000000000000
+      internalID: 4881070126630658771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 57
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db2931eb63186330800000000000000
+      internalID: 3704232047573281749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 57
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aafc07bd2f631f30800000000000000
+      internalID: 4545098691082255011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccc20047b3494330800000000000000
+      internalID: 3695559423566204108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e0c92616dd16150800000000000000
+      internalID: 5864211600149057046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T chomper_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 14
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a133d0fbee894940800000000000000
+      internalID: 5280909182077448609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      T chomper_0: 6578714185133898006
+      T chomper_1: -8319162075116459330
+      T chomper_10: -5807646345004000991
+      T chomper_11: 6419020229647211610
+      T chomper_12: 234414011722145255
+      T chomper_13: -4842444981770008986
+      T chomper_14: -8090707452544859222
+      T chomper_15: 1211797915430396711
+      T chomper_16: 1340846787499403440
+      T chomper_17: -4110655369839317962
+      T chomper_18: -435480416880248602
+      T chomper_19: 1139174646985667936
+      T chomper_2: -7915192355847114514
+      T chomper_20: -4696370865314994190
+      T chomper_21: -2834447289328811684
+      T chomper_22: 9147128616331240382
+      T chomper_23: -4432330564530122758
+      T chomper_24: -4934892266258609982
+      T chomper_25: -2092174592987301456
+      T chomper_26: 1482710752985119156
+      T chomper_27: -180241427866437602
+      T chomper_28: 4920904148411535989
+      T chomper_29: -6968438116047415063
+      T chomper_3: -4724266234781926428
+      T chomper_30: 3782400185773951656
+      T chomper_31: 5135678910908650902
+      T chomper_32: -8131972672374070001
+      T chomper_33: 5417532877030225493
+      T chomper_34: 4881070126630658771
+      T chomper_35: 3704232047573281749
+      T chomper_36: 4545098691082255011
+      T chomper_37: 3695559423566204108
+      T chomper_38: 5864211600149057046
+      T chomper_39: 5280909182077448609
+      T chomper_4: 1312887589056989148
+      T chomper_5: -7524199187683960342
+      T chomper_6: -5181054587582559927
+      T chomper_7: 3182101065414451094
+      T chomper_8: -4861074021613481474
+      T chomper_9: 4023850568049395000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

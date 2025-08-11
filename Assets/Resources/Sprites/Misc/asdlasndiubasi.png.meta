@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: ed95f4116a3365c44a02c8dd0c6f2b64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7945521651600078670
+    second: asdlasndiubasi_0
+  - first:
+      213: 6984121488068716681
+    second: asdlasndiubasi_1
+  - first:
+      213: -8560023495200864479
+    second: asdlasndiubasi_2
+  - first:
+      213: -3527317579702943616
+    second: asdlasndiubasi_3
+  - first:
+      213: 3607290809395758700
+    second: asdlasndiubasi_4
+  - first:
+      213: -6635041514187561803
+    second: asdlasndiubasi_5
+  - first:
+      213: -8691875330161222921
+    second: asdlasndiubasi_6
+  - first:
+      213: 2786888867612704817
+    second: asdlasndiubasi_7
+  - first:
+      213: -6072382010722913931
+    second: asdlasndiubasi_8
+  - first:
+      213: 5647259857761436163
+    second: asdlasndiubasi_9
+  - first:
+      213: -7357709370571121761
+    second: asdlasndiubasi_10
+  - first:
+      213: 5052322479440144853
+    second: asdlasndiubasi_11
+  - first:
+      213: -1163850223679161626
+    second: asdlasndiubasi_12
+  - first:
+      213: 5340709698943730254
+    second: asdlasndiubasi_13
+  - first:
+      213: -9182259135160280105
+    second: asdlasndiubasi_14
+  - first:
+      213: -1808108287419192376
+    second: asdlasndiubasi_15
+  - first:
+      213: 7098496501700916880
+    second: asdlasndiubasi_16
+  - first:
+      213: 424294331964606854
+    second: asdlasndiubasi_17
+  - first:
+      213: 6076458264726823090
+    second: asdlasndiubasi_18
+  - first:
+      213: -3752030465721206292
+    second: asdlasndiubasi_19
+  - first:
+      213: 9187622715213289315
+    second: asdlasndiubasi_20
+  - first:
+      213: 2407406526274702856
+    second: asdlasndiubasi_21
+  - first:
+      213: -454726206143839441
+    second: asdlasndiubasi_22
+  - first:
+      213: -9095166521016427881
+    second: asdlasndiubasi_23
+  - first:
+      213: 6532447664509115609
+    second: asdlasndiubasi_24
+  - first:
+      213: -1108406296757202512
+    second: asdlasndiubasi_25
+  - first:
+      213: 770212111886773842
+    second: asdlasndiubasi_26
+  - first:
+      213: 6917769168179999672
+    second: asdlasndiubasi_27
+  - first:
+      213: 8315123268828118375
+    second: asdlasndiubasi_28
+  - first:
+      213: -6271108098740535768
+    second: asdlasndiubasi_29
+  - first:
+      213: -7038790863079404651
+    second: asdlasndiubasi_30
+  - first:
+      213: -4025338523004080670
+    second: asdlasndiubasi_31
+  - first:
+      213: -652990856229468596
+    second: asdlasndiubasi_32
+  - first:
+      213: -3840415896831641305
+    second: asdlasndiubasi_33
+  - first:
+      213: 1430616974464317738
+    second: asdlasndiubasi_34
+  - first:
+      213: -801802209658753062
+    second: asdlasndiubasi_35
+  - first:
+      213: 7213587906529940220
+    second: asdlasndiubasi_36
+  - first:
+      213: 6255339946970568929
+    second: asdlasndiubasi_37
+  - first:
+      213: -5954676139582493386
+    second: asdlasndiubasi_38
+  - first:
+      213: -215510147002740221
+    second: asdlasndiubasi_39
+  - first:
+      213: -1764432765399071480
+    second: asdlasndiubasi_40
+  - first:
+      213: 5522123834537481852
+    second: asdlasndiubasi_41
+  - first:
+      213: 2024070602453207545
+    second: asdlasndiubasi_42
+  - first:
+      213: 7085476397607340032
+    second: asdlasndiubasi_43
+  - first:
+      213: 6997348801074777332
+    second: asdlasndiubasi_44
+  - first:
+      213: 3333529625748377003
+    second: asdlasndiubasi_45
+  - first:
+      213: 7187726629932994933
+    second: asdlasndiubasi_46
+  - first:
+      213: 2743975600297764594
+    second: asdlasndiubasi_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asdlasndiubasi_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 533
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c331b726dbb190800000000000000
+      internalID: -7945521651600078670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 533
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988228c6d759ce060800000000000000
+      internalID: 6984121488068716681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 533
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1270e8bebffa43980800000000000000
+      internalID: -8560023495200864479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 533
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080c0db89537c0fc0800000000000000
+      internalID: -3527317579702943616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 533
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66c09ff0ebaf0230800000000000000
+      internalID: 3607290809395758700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 533
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b461e495e89be3a0800000000000000
+      internalID: -6635041514187561803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 533
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa52c15071406780800000000000000
+      internalID: -8691875330161222921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 533
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130cb86d8a40da620800000000000000
+      internalID: 2786888867612704817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 479
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571736eebb09abba0800000000000000
+      internalID: -6072382010722913931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 481
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30281309be81f5e40800000000000000
+      internalID: 5647259857761436163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 465
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b9b8e6f4a24e990800000000000000
+      internalID: -7357709370571121761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 461
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d920c5d6847d1640800000000000000
+      internalID: 5052322479440144853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 463
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea38dd436c29dfe0800000000000000
+      internalID: -1163850223679161626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 463
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e424606cc230e1a40800000000000000
+      internalID: 5340709698943730254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 461
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db9f2d57ff029080800000000000000
+      internalID: -9182259135160280105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 463
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb60f4a71f48e6e0800000000000000
+      internalID: -1808108287419192376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 381
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0967c3775fce28260800000000000000
+      internalID: 7098496501700916880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 379
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68946f8627563e500800000000000000
+      internalID: 424294331964606854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 377
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b06789e89ae35450800000000000000
+      internalID: 6076458264726823090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 377
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce97e38ab2c1eebc0800000000000000
+      internalID: -3752030465721206292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 373
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367199e6e2ef08f70800000000000000
+      internalID: 9187622715213289315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 377
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8f8c0b73d86120800000000000000
+      internalID: 2407406526274702856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 373
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f234cbcbcec70b9f0800000000000000
+      internalID: -454726206143839441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 371
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a5ac5cc3a77c180800000000000000
+      internalID: -9095166521016427881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 307
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc55ec5a8ae7aa50800000000000000
+      internalID: 6532447664509115609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 293
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b11bfe78562e90f0800000000000000
+      internalID: -1108406296757202512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 293
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ee6b2c5d750ba00800000000000000
+      internalID: 770212111886773842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 291
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b483186ad00060800000000000000
+      internalID: 6917769168179999672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_28
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 293
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76db51ebe80456370800000000000000
+      internalID: 8315123268828118375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 289
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ebe72f86c88f8a0800000000000000
+      internalID: -6271108098740535768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_30
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 291
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b03edc001315e90800000000000000
+      internalID: -7038790863079404651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 293
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed65a3c0ff1328c0800000000000000
+      internalID: -4025338523004080670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 207
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c464dd4a64c10f6f0800000000000000
+      internalID: -652990856229468596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 207
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7293697d61a14bac0800000000000000
+      internalID: -3840415896831641305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 207
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f69cfe829ad310800000000000000
+      internalID: 1430616974464317738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 221
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfaa21732d6fd4f0800000000000000
+      internalID: -801802209658753062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_36
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 207
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf255c45bffcb1460800000000000000
+      internalID: 7213587906529940220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 209
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8dd702a8e6fc650800000000000000
+      internalID: 6255339946970568929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_38
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 205
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63de0bba99dbc5da0800000000000000
+      internalID: -5954676139582493386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_39
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 203
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302d862c9aa520df0800000000000000
+      internalID: -215510147002740221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 121
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805045c8fb97387e0800000000000000
+      internalID: -1764432765399071480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 123
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76135bbe5682ac40800000000000000
+      internalID: 5522123834537481852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 123
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9c88b2d71f61c10800000000000000
+      internalID: 2024070602453207545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 121
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008cccf3e3ba45260800000000000000
+      internalID: 7085476397607340032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_44
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 121
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc419939a39b1160800000000000000
+      internalID: 6997348801074777332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 123
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad09f66883134e20800000000000000
+      internalID: 3333529625748377003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_46
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 121
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57195c7a94fefb360800000000000000
+      internalID: 7187726629932994933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdlasndiubasi_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 13
+        width: 168
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f66610354f841620800000000000000
+      internalID: 2743975600297764594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      asdlasndiubasi_0: -7945521651600078670
+      asdlasndiubasi_1: 6984121488068716681
+      asdlasndiubasi_10: -7357709370571121761
+      asdlasndiubasi_11: 5052322479440144853
+      asdlasndiubasi_12: -1163850223679161626
+      asdlasndiubasi_13: 5340709698943730254
+      asdlasndiubasi_14: -9182259135160280105
+      asdlasndiubasi_15: -1808108287419192376
+      asdlasndiubasi_16: 7098496501700916880
+      asdlasndiubasi_17: 424294331964606854
+      asdlasndiubasi_18: 6076458264726823090
+      asdlasndiubasi_19: -3752030465721206292
+      asdlasndiubasi_2: -8560023495200864479
+      asdlasndiubasi_20: 9187622715213289315
+      asdlasndiubasi_21: 2407406526274702856
+      asdlasndiubasi_22: -454726206143839441
+      asdlasndiubasi_23: -9095166521016427881
+      asdlasndiubasi_24: 6532447664509115609
+      asdlasndiubasi_25: -1108406296757202512
+      asdlasndiubasi_26: 770212111886773842
+      asdlasndiubasi_27: 6917769168179999672
+      asdlasndiubasi_28: 8315123268828118375
+      asdlasndiubasi_29: -6271108098740535768
+      asdlasndiubasi_3: -3527317579702943616
+      asdlasndiubasi_30: -7038790863079404651
+      asdlasndiubasi_31: -4025338523004080670
+      asdlasndiubasi_32: -652990856229468596
+      asdlasndiubasi_33: -3840415896831641305
+      asdlasndiubasi_34: 1430616974464317738
+      asdlasndiubasi_35: -801802209658753062
+      asdlasndiubasi_36: 7213587906529940220
+      asdlasndiubasi_37: 6255339946970568929
+      asdlasndiubasi_38: -5954676139582493386
+      asdlasndiubasi_39: -215510147002740221
+      asdlasndiubasi_4: 3607290809395758700
+      asdlasndiubasi_40: -1764432765399071480
+      asdlasndiubasi_41: 5522123834537481852
+      asdlasndiubasi_42: 2024070602453207545
+      asdlasndiubasi_43: 7085476397607340032
+      asdlasndiubasi_44: 6997348801074777332
+      asdlasndiubasi_45: 3333529625748377003
+      asdlasndiubasi_46: 7187726629932994933
+      asdlasndiubasi_47: 2743975600297764594
+      asdlasndiubasi_5: -6635041514187561803
+      asdlasndiubasi_6: -8691875330161222921
+      asdlasndiubasi_7: 2786888867612704817
+      asdlasndiubasi_8: -6072382010722913931
+      asdlasndiubasi_9: 5647259857761436163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

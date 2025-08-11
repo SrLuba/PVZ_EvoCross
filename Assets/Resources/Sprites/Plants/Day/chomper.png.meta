@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 6ce1e5e4869c50d41bc2ee4eff5a3a58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6899437003122677018
+    second: chomper_0
+  - first:
+      213: -3007481088105838431
+    second: chomper_1
+  - first:
+      213: 5242305790103203780
+    second: chomper_2
+  - first:
+      213: 3317265340395559831
+    second: chomper_3
+  - first:
+      213: 7768226376833693027
+    second: chomper_4
+  - first:
+      213: 3830140484878744791
+    second: chomper_5
+  - first:
+      213: -6268539123429366960
+    second: chomper_6
+  - first:
+      213: 1971067139803917738
+    second: chomper_7
+  - first:
+      213: -6393644856693523949
+    second: chomper_8
+  - first:
+      213: 8906384071769523037
+    second: chomper_9
+  - first:
+      213: 2767985575893047788
+    second: chomper_10
+  - first:
+      213: 3027273585515072577
+    second: chomper_11
+  - first:
+      213: 5148696628745339998
+    second: chomper_12
+  - first:
+      213: 4707837224075475607
+    second: chomper_13
+  - first:
+      213: -6763902428783892504
+    second: chomper_14
+  - first:
+      213: 6285525163709578390
+    second: chomper_15
+  - first:
+      213: 8229244505422720461
+    second: chomper_16
+  - first:
+      213: -6787797769908018660
+    second: chomper_17
+  - first:
+      213: -2714933263935836274
+    second: chomper_18
+  - first:
+      213: 6777848997459999189
+    second: chomper_19
+  - first:
+      213: 7435749729730016351
+    second: chomper_20
+  - first:
+      213: -7562563498422274796
+    second: chomper_21
+  - first:
+      213: 8974849575444788823
+    second: chomper_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chomper_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 585
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1510594669bfbf50800000000000000
+      internalID: 6899437003122677018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 576
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a80fba72e74346d0800000000000000
+      internalID: -3007481088105838431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 576
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf2317575960c840800000000000000
+      internalID: 5242305790103203780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 576
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b1eff504b490e20800000000000000
+      internalID: 3317265340395559831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 576
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365fdfd5bb84ecb60800000000000000
+      internalID: 7768226376833693027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 565
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3a016a74672530800000000000000
+      internalID: 3830140484878744791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 517
+        width: 256
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053aa5f11eca109a0800000000000000
+      internalID: -6268539123429366960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 563
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad2578de13aa5b10800000000000000
+      internalID: 1971067139803917738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 563
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a77c8b0e53547a0800000000000000
+      internalID: -6393644856693523949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 563
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53050f0025d99b70800000000000000
+      internalID: 8906384071769523037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 550
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce99282473cd96620800000000000000
+      internalID: 2767985575893047788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 550
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c8c8e6949030a20800000000000000
+      internalID: 3027273585515072577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 551
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e540e9c0e48d37740800000000000000
+      internalID: 5148696628745339998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 550
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a31691309955140800000000000000
+      internalID: 4707837224075475607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 550
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e72fe4e39ac122a0800000000000000
+      internalID: -6763902428783892504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 518
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c30b195dbaa3750800000000000000
+      internalID: 6285525163709578390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 518
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd6e8bf646243270800000000000000
+      internalID: 8229244505422720461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 519
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12a17d34e5ecc1a0800000000000000
+      internalID: -6787797769908018660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 518
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f663ea49e925ad0800000000000000
+      internalID: -2714933263935836274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 518
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d937daa0c1cf0e50800000000000000
+      internalID: 6777848997459999189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 313
+        width: 332
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54b34f9bf6113760800000000000000
+      internalID: 7435749729730016351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 237
+        width: 332
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415743df0906c0790800000000000000
+      internalID: -7562563498422274796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chomper_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 25
+        width: 332
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756b3f853221d8c70800000000000000
+      internalID: 8974849575444788823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chomper_0: 6899437003122677018
+      chomper_1: -3007481088105838431
+      chomper_10: 2767985575893047788
+      chomper_11: 3027273585515072577
+      chomper_12: 5148696628745339998
+      chomper_13: 4707837224075475607
+      chomper_14: -6763902428783892504
+      chomper_15: 6285525163709578390
+      chomper_16: 8229244505422720461
+      chomper_17: -6787797769908018660
+      chomper_18: -2714933263935836274
+      chomper_19: 6777848997459999189
+      chomper_2: 5242305790103203780
+      chomper_20: 7435749729730016351
+      chomper_21: -7562563498422274796
+      chomper_22: 8974849575444788823
+      chomper_3: 3317265340395559831
+      chomper_4: 7768226376833693027
+      chomper_5: 3830140484878744791
+      chomper_6: -6268539123429366960
+      chomper_7: 1971067139803917738
+      chomper_8: -6393644856693523949
+      chomper_9: 8906384071769523037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

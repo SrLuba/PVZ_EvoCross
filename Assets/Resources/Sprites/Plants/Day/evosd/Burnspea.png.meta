@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 354ba6ab6e5c18144b0e84147ef6d874
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3004263241969002201
+    second: Burnspea_0
+  - first:
+      213: 199159438045122903
+    second: Burnspea_1
+  - first:
+      213: 5899378973463515548
+    second: Burnspea_2
+  - first:
+      213: -3181549512926503990
+    second: Burnspea_3
+  - first:
+      213: 3882538208932754623
+    second: Burnspea_4
+  - first:
+      213: -6673696312298933679
+    second: Burnspea_5
+  - first:
+      213: 7002137911118262372
+    second: Burnspea_6
+  - first:
+      213: 2017073659667800327
+    second: Burnspea_7
+  - first:
+      213: 425670012079589113
+    second: Burnspea_8
+  - first:
+      213: -966993078494806738
+    second: Burnspea_9
+  - first:
+      213: 2588746871969887854
+    second: Burnspea_10
+  - first:
+      213: -9060544653120335134
+    second: Burnspea_11
+  - first:
+      213: 2481159278659246184
+    second: Burnspea_12
+  - first:
+      213: -8165985682218017078
+    second: Burnspea_13
+  - first:
+      213: -1687799811188455786
+    second: Burnspea_14
+  - first:
+      213: -42017024100121291
+    second: Burnspea_15
+  - first:
+      213: -2631594737637619825
+    second: Burnspea_16
+  - first:
+      213: -5746440154256115498
+    second: Burnspea_17
+  - first:
+      213: -5830547388901926433
+    second: Burnspea_18
+  - first:
+      213: -3512421402038080022
+    second: Burnspea_19
+  - first:
+      213: 2190192952667148221
+    second: Burnspea_20
+  - first:
+      213: 397038383212289043
+    second: Burnspea_21
+  - first:
+      213: -5533954442101934943
+    second: Burnspea_22
+  - first:
+      213: 2761378322086361229
+    second: Burnspea_23
+  - first:
+      213: 9046113175297184198
+    second: Burnspea_24
+  - first:
+      213: -8801398957523372289
+    second: Burnspea_25
+  - first:
+      213: 6789003126608670
+    second: Burnspea_26
+  - first:
+      213: 6116849878593594776
+    second: Burnspea_27
+  - first:
+      213: 4691433616295943565
+    second: Burnspea_28
+  - first:
+      213: -8664035641174694061
+    second: Burnspea_29
+  - first:
+      213: 6417667499666268005
+    second: Burnspea_30
+  - first:
+      213: -2257008136502300424
+    second: Burnspea_31
+  - first:
+      213: 8514372966545863505
+    second: Burnspea_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burnspea_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 267
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d66355508941b920800000000000000
+      internalID: 3004263241969002201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 261
+        width: 172
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7519856247e83c200800000000000000
+      internalID: 199159438045122903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 219
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9193bc8bedced150800000000000000
+      internalID: 5899378973463515548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 219
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbd2b6139dd8d3d0800000000000000
+      internalID: -3181549512926503990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 219
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb471523eeb81e530800000000000000
+      internalID: 3882538208932754623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 219
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152769e00944263a0800000000000000
+      internalID: -6673696312298933679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 219
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460ff7cc4579c2160800000000000000
+      internalID: 7002137911118262372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701eb4a7ec51efb10800000000000000
+      internalID: 2017073659667800327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64a85ee9848e500800000000000000
+      internalID: 425670012079589113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 171
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d3e002bec8492f0800000000000000
+      internalID: -966993078494806738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e663b2570931de320800000000000000
+      internalID: 2588746871969887854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 123
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2923f84aa724280800000000000000
+      internalID: -9060544653120335134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 123
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86816abd739de6220800000000000000
+      internalID: 2481159278659246184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 123
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace187a89479cae80800000000000000
+      internalID: -8165985682218017078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 123
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696042a930bb398e0800000000000000
+      internalID: -1687799811188455786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 123
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5354efb3db9ba6ff0800000000000000
+      internalID: -42017024100121291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 98
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8782566782ba7bd0800000000000000
+      internalID: -2631594737637619825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8f58a202b8040b0800000000000000
+      internalID: -5746440154256115498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd95b669a0cb51fa0800000000000000
+      internalID: -5830547388901926433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed6a0e285f514fc0800000000000000
+      internalID: -3512421402038080022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0a45e2e0256e10800000000000000
+      internalID: 2190192952667148221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 98
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c50915e40928500800000000000000
+      internalID: 397038383212289043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 100
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4b15b41c17333b0800000000000000
+      internalID: -5533954442101934943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 55
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88fb6a14f2625620800000000000000
+      internalID: 2761378322086361229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1d19b21004a8d70800000000000000
+      internalID: 9046113175297184198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 55
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6735aa7462bd580800000000000000
+      internalID: -8801398957523372289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 55
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e139db7ff8e181000800000000000000
+      internalID: 6789003126608670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89566fd5e8a63e450800000000000000
+      internalID: 6116849878593594776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 55
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d55aa84025b1140800000000000000
+      internalID: 4691433616295943565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 55
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35765760d7923c780800000000000000
+      internalID: -8664035641174694061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 55
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5d24b692201950800000000000000
+      internalID: 6417667499666268005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 23
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f03d98de0f7da0e0800000000000000
+      internalID: -2257008136502300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burnspea_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 23
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153b72c1a11292670800000000000000
+      internalID: 8514372966545863505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Burnspea_0: 3004263241969002201
+      Burnspea_1: 199159438045122903
+      Burnspea_10: 2588746871969887854
+      Burnspea_11: -9060544653120335134
+      Burnspea_12: 2481159278659246184
+      Burnspea_13: -8165985682218017078
+      Burnspea_14: -1687799811188455786
+      Burnspea_15: -42017024100121291
+      Burnspea_16: -2631594737637619825
+      Burnspea_17: -5746440154256115498
+      Burnspea_18: -5830547388901926433
+      Burnspea_19: -3512421402038080022
+      Burnspea_2: 5899378973463515548
+      Burnspea_20: 2190192952667148221
+      Burnspea_21: 397038383212289043
+      Burnspea_22: -5533954442101934943
+      Burnspea_23: 2761378322086361229
+      Burnspea_24: 9046113175297184198
+      Burnspea_25: -8801398957523372289
+      Burnspea_26: 6789003126608670
+      Burnspea_27: 6116849878593594776
+      Burnspea_28: 4691433616295943565
+      Burnspea_29: -8664035641174694061
+      Burnspea_3: -3181549512926503990
+      Burnspea_30: 6417667499666268005
+      Burnspea_31: -2257008136502300424
+      Burnspea_32: 8514372966545863505
+      Burnspea_4: 3882538208932754623
+      Burnspea_5: -6673696312298933679
+      Burnspea_6: 7002137911118262372
+      Burnspea_7: 2017073659667800327
+      Burnspea_8: 425670012079589113
+      Burnspea_9: -966993078494806738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

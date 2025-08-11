@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 4028bf2462296574aaccbf8e9cf6d201
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8542516946443465613
+    second: zombistain_parts_0
+  - first:
+      213: 151472086919759444
+    second: zombistain_parts_1
+  - first:
+      213: 4543464212701441618
+    second: zombistain_parts_2
+  - first:
+      213: -4098727816652895265
+    second: zombistain_parts_3
+  - first:
+      213: -7841392587875732530
+    second: zombistain_parts_4
+  - first:
+      213: -4799051651055184720
+    second: zombistain_parts_5
+  - first:
+      213: 6826104275546285559
+    second: zombistain_parts_6
+  - first:
+      213: 2547993460874899209
+    second: zombistain_parts_7
+  - first:
+      213: -2027671877133629901
+    second: zombistain_parts_8
+  - first:
+      213: -7116157816278396303
+    second: zombistain_parts_9
+  - first:
+      213: -7235806465345043208
+    second: zombistain_parts_10
+  - first:
+      213: 7411280359923813397
+    second: zombistain_parts_11
+  - first:
+      213: -5548833299835717751
+    second: zombistain_parts_12
+  - first:
+      213: 4326649758889754555
+    second: zombistain_parts_13
+  - first:
+      213: 8432620765017047117
+    second: zombistain_parts_14
+  - first:
+      213: 2729978109831275394
+    second: zombistain_parts_15
+  - first:
+      213: -7956874674574333329
+    second: zombistain_parts_16
+  - first:
+      213: -4448415610756190426
+    second: zombistain_parts_17
+  - first:
+      213: 8150321670772792838
+    second: zombistain_parts_18
+  - first:
+      213: -7160613649776542312
+    second: zombistain_parts_19
+  - first:
+      213: -5306496047866010267
+    second: zombistain_parts_20
+  - first:
+      213: -1809046708003146388
+    second: zombistain_parts_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombistain_parts_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 138
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83748017ed1d8670800000000000000
+      internalID: 8542516946443465613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 132
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564d3e7f032a1200800000000000000
+      internalID: 151472086919759444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 132
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ee4cf01a0ad0f30800000000000000
+      internalID: 4543464212701441618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 132
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb446944c46e17c0800000000000000
+      internalID: -4098727816652895265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 159
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3394f9cf6cd2390800000000000000
+      internalID: -7841392587875732530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 148
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b49a1823f7566db0800000000000000
+      internalID: -4799051651055184720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f526bf1ca13bbe50800000000000000
+      internalID: 6826104275546285559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f67758d8a4c5320800000000000000
+      internalID: 2547993460874899209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 123
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336866abb234cd3e0800000000000000
+      internalID: -2027671877133629901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 86
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1725b1b4b245e3d90800000000000000
+      internalID: -7116157816278396303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 87
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f442a15b50459b90800000000000000
+      internalID: -7235806465345043208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 75
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c861088382ad660800000000000000
+      internalID: 7411280359923813397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 28
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987fe6543859ef2b0800000000000000
+      internalID: -5548833299835717751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 25
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf372a38095b0c30800000000000000
+      internalID: 4326649758889754555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d408c6868efa60570800000000000000
+      internalID: 8432620765017047117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 91
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283e51970a4d2e520800000000000000
+      internalID: 2729978109831275394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae1bb04a0839190800000000000000
+      internalID: -7956874674574333329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 51
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f239b129d0442c0800000000000000
+      internalID: -4448415610756190426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 11
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e94979062cb1170800000000000000
+      internalID: 8150321670772792838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 37
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d7147f2d360ac90800000000000000
+      internalID: -7160613649776542312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565aee0a5f98b56b0800000000000000
+      internalID: -5306496047866010267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombistain_parts_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f1639a99f4e6e0800000000000000
+      internalID: -1809046708003146388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zombistain_parts_0: 8542516946443465613
+      zombistain_parts_1: 151472086919759444
+      zombistain_parts_10: -7235806465345043208
+      zombistain_parts_11: 7411280359923813397
+      zombistain_parts_12: -5548833299835717751
+      zombistain_parts_13: 4326649758889754555
+      zombistain_parts_14: 8432620765017047117
+      zombistain_parts_15: 2729978109831275394
+      zombistain_parts_16: -7956874674574333329
+      zombistain_parts_17: -4448415610756190426
+      zombistain_parts_18: 8150321670772792838
+      zombistain_parts_19: -7160613649776542312
+      zombistain_parts_2: 4543464212701441618
+      zombistain_parts_20: -5306496047866010267
+      zombistain_parts_21: -1809046708003146388
+      zombistain_parts_3: -4098727816652895265
+      zombistain_parts_4: -7841392587875732530
+      zombistain_parts_5: -4799051651055184720
+      zombistain_parts_6: 6826104275546285559
+      zombistain_parts_7: 2547993460874899209
+      zombistain_parts_8: -2027671877133629901
+      zombistain_parts_9: -7116157816278396303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

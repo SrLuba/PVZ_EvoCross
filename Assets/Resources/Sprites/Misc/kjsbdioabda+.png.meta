@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 22848ec1d27596b4bb031aa6e4f15d19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1889012738239774899
+    second: kjsbdioabda+_0
+  - first:
+      213: 1880070966753048761
+    second: kjsbdioabda+_1
+  - first:
+      213: 5403621809614671348
+    second: kjsbdioabda+_2
+  - first:
+      213: -8552418980376396894
+    second: kjsbdioabda+_3
+  - first:
+      213: -927019123995836627
+    second: kjsbdioabda+_4
+  - first:
+      213: 3176523535489972362
+    second: kjsbdioabda+_5
+  - first:
+      213: 1432887783691641397
+    second: kjsbdioabda+_6
+  - first:
+      213: 5360140221209397107
+    second: kjsbdioabda+_7
+  - first:
+      213: -3701129216970333310
+    second: kjsbdioabda+_8
+  - first:
+      213: 3324166184406994672
+    second: kjsbdioabda+_9
+  - first:
+      213: -7224353118864537879
+    second: kjsbdioabda+_10
+  - first:
+      213: -286468686057185492
+    second: kjsbdioabda+_11
+  - first:
+      213: 3701361672151858982
+    second: kjsbdioabda+_12
+  - first:
+      213: -4037181059668526804
+    second: kjsbdioabda+_13
+  - first:
+      213: -1429661740903528425
+    second: kjsbdioabda+_14
+  - first:
+      213: -3895054399113467582
+    second: kjsbdioabda+_15
+  - first:
+      213: 7009799618090075719
+    second: kjsbdioabda+_16
+  - first:
+      213: -1164272545308771288
+    second: kjsbdioabda+_17
+  - first:
+      213: -4687766004575665150
+    second: kjsbdioabda+_18
+  - first:
+      213: -2807009907735551527
+    second: kjsbdioabda+_19
+  - first:
+      213: -676425214364693535
+    second: kjsbdioabda+_20
+  - first:
+      213: 8355010045892035799
+    second: kjsbdioabda+_21
+  - first:
+      213: -540813846795467040
+    second: kjsbdioabda+_22
+  - first:
+      213: -500632004094581254
+    second: kjsbdioabda+_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kjsbdioabda+_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b048f6b31f173a10800000000000000
+      internalID: 1889012738239774899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b837dd459a571a10800000000000000
+      internalID: 1880070966753048761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc2aef7658dfa40800000000000000
+      internalID: 5403621809614671348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 37
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab3b500044bf4980800000000000000
+      internalID: -8552418980376396894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 35
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ffb3ea4019223f0800000000000000
+      internalID: -927019123995836627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 34
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a883c895357451c20800000000000000
+      internalID: 3176523535489972362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 34
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532efe5f8d3a2e310800000000000000
+      internalID: 1432887783691641397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 34
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3774877c12b036a40800000000000000
+      internalID: 5360140221209397107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283e9aa2692f2acc0800000000000000
+      internalID: -3701129216970333310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 35
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fec1f3588fc12e20800000000000000
+      internalID: 3324166184406994672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6081a5d11fdbb90800000000000000
+      internalID: -7224353118864537879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd9407f32460cf0800000000000000
+      internalID: -286468686057185492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 33
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f7bd584d0ed5330800000000000000
+      internalID: 3701361672151858982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 33
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29b584573d09f7c0800000000000000
+      internalID: -4037181059668526804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 32
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7188a78a832d82ce0800000000000000
+      internalID: -1429661740903528425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 34
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249e40039acf1f9c0800000000000000
+      internalID: -3895054399113467582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 35
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7468de6fc9fc74160800000000000000
+      internalID: 7009799618090075719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 35
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c7123e94ca7dfe0800000000000000
+      internalID: -1164272545308771288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 33
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048d1bd7a5b1feb0800000000000000
+      internalID: -4687766004575665150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 34
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1ab607c5f7b09d0800000000000000
+      internalID: -2807009907735551527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_20
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 32
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebcca4f9dadc96f0800000000000000
+      internalID: -676425214364693535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d40738be55f2f370800000000000000
+      internalID: 8355010045892035799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c424fba4ae78f0800000000000000
+      internalID: -540813846795467040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kjsbdioabda+_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af520c048d56d09f0800000000000000
+      internalID: -500632004094581254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kjsbdioabda+_0: 1889012738239774899
+      kjsbdioabda+_1: 1880070966753048761
+      kjsbdioabda+_10: -7224353118864537879
+      kjsbdioabda+_11: -286468686057185492
+      kjsbdioabda+_12: 3701361672151858982
+      kjsbdioabda+_13: -4037181059668526804
+      kjsbdioabda+_14: -1429661740903528425
+      kjsbdioabda+_15: -3895054399113467582
+      kjsbdioabda+_16: 7009799618090075719
+      kjsbdioabda+_17: -1164272545308771288
+      kjsbdioabda+_18: -4687766004575665150
+      kjsbdioabda+_19: -2807009907735551527
+      kjsbdioabda+_2: 5403621809614671348
+      kjsbdioabda+_20: -676425214364693535
+      kjsbdioabda+_21: 8355010045892035799
+      kjsbdioabda+_22: -540813846795467040
+      kjsbdioabda+_23: -500632004094581254
+      kjsbdioabda+_3: -8552418980376396894
+      kjsbdioabda+_4: -927019123995836627
+      kjsbdioabda+_5: 3176523535489972362
+      kjsbdioabda+_6: 1432887783691641397
+      kjsbdioabda+_7: 5360140221209397107
+      kjsbdioabda+_8: -3701129216970333310
+      kjsbdioabda+_9: 3324166184406994672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

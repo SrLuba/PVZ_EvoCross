@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: ca83ca7e59cc9cb4889f05fbee02b248
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4147838379780276349
+    second: Plant_Chomper_0
+  - first:
+      213: 2612946833840822528
+    second: Plant_Chomper_1
+  - first:
+      213: -2554697409575479071
+    second: Plant_Chomper_2
+  - first:
+      213: -3226583048975224043
+    second: Plant_Chomper_3
+  - first:
+      213: 5737420914455385056
+    second: Plant_Chomper_4
+  - first:
+      213: -1558956844919492662
+    second: Plant_Chomper_5
+  - first:
+      213: -8167695825130560186
+    second: Plant_Chomper_6
+  - first:
+      213: 6270751896842941950
+    second: Plant_Chomper_7
+  - first:
+      213: -9058529126824769061
+    second: Plant_Chomper_8
+  - first:
+      213: -926716937383989031
+    second: Plant_Chomper_9
+  - first:
+      213: -2986746378335692424
+    second: Plant_Chomper_10
+  - first:
+      213: 6927885490496388796
+    second: Plant_Chomper_11
+  - first:
+      213: 4406034672673249319
+    second: Plant_Chomper_12
+  - first:
+      213: 7787926773588115943
+    second: Plant_Chomper_13
+  - first:
+      213: 445979473416020421
+    second: Plant_Chomper_14
+  - first:
+      213: -6413790627109785707
+    second: Plant_Chomper_15
+  - first:
+      213: 6557318275523385923
+    second: Plant_Chomper_16
+  - first:
+      213: 5204352300771920141
+    second: Plant_Chomper_17
+  - first:
+      213: 7764411648092097003
+    second: Plant_Chomper_18
+  - first:
+      213: -4437702763195886009
+    second: Plant_Chomper_19
+  - first:
+      213: 2625916323954165645
+    second: Plant_Chomper_20
+  - first:
+      213: 2999128756851782997
+    second: Plant_Chomper_21
+  - first:
+      213: -5358644462307322085
+    second: Plant_Chomper_22
+  - first:
+      213: 5202110623494619397
+    second: Plant_Chomper_23
+  - first:
+      213: 9140968549663940209
+    second: Plant_Chomper_24
+  - first:
+      213: -4417859085529147979
+    second: Plant_Chomper_25
+  - first:
+      213: -4153717286628770858
+    second: Plant_Chomper_26
+  - first:
+      213: 6434024039376763147
+    second: Plant_Chomper_27
+  - first:
+      213: 160113105238544295
+    second: Plant_Chomper_28
+  - first:
+      213: -5188739996848038976
+    second: Plant_Chomper_29
+  - first:
+      213: -3815977937238319889
+    second: Plant_Chomper_30
+  - first:
+      213: 7796105450769097313
+    second: Plant_Chomper_31
+  - first:
+      213: 8015556539328528154
+    second: Plant_Chomper_32
+  - first:
+      213: -6526718000742270999
+    second: Plant_Chomper_33
+  - first:
+      213: -495158523700234083
+    second: Plant_Chomper_34
+  - first:
+      213: -1710908629605674629
+    second: Plant_Chomper_35
+  - first:
+      213: -1937687002133062194
+    second: Plant_Chomper_36
+  - first:
+      213: -8806109948465145840
+    second: Plant_Chomper_37
+  - first:
+      213: 2818549829229188777
+    second: Plant_Chomper_38
+  - first:
+      213: -2149854319708985217
+    second: Plant_Chomper_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plant_Chomper_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 377
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ff67348faef66c0800000000000000
+      internalID: -4147838379780276349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 377
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00950182d4d034420800000000000000
+      internalID: 2612946833840822528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 378
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e894a9cd34eb8cd0800000000000000
+      internalID: -2554697409575479071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 378
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513f887efcfd833d0800000000000000
+      internalID: -3226583048975224043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 378
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3920d6ce96f9f40800000000000000
+      internalID: 5737420914455385056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 378
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfe86e52097d5ae0800000000000000
+      internalID: -1558956844919492662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 333
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e6addbe386ae80800000000000000
+      internalID: -8167695825130560186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 331
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef53ee550af260750800000000000000
+      internalID: 6270751896842941950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 268
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd98418d0c3a94280800000000000000
+      internalID: -9058529126824769061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 268
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0b3ebfad3a323f0800000000000000
+      internalID: -926716937383989031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 268
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879dd1d4ef1fc86d0800000000000000
+      internalID: -2986746378335692424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 268
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbebe99e52bc42060800000000000000
+      internalID: 6927885490496388796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 268
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7285ebcc031652d30800000000000000
+      internalID: 4406034672673249319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 268
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1497c6326441c60800000000000000
+      internalID: 7787926773588115943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 216
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1e31ad7ff603600800000000000000
+      internalID: 445979473416020421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 218
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f24670863adf6a0800000000000000
+      internalID: -6413790627109785707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 218
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9fbbba36400b50800000000000000
+      internalID: 6557318275523385923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 217
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d094f7df7d2993840800000000000000
+      internalID: 5204352300771920141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 217
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be94f6e914bb0cb60800000000000000
+      internalID: 7764411648092097003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 170
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74690fc49dc1a62c0800000000000000
+      internalID: -4437702763195886009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d870033ebf0217420800000000000000
+      internalID: 2625916323954165645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 172
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5553fcbd6bb0f9920800000000000000
+      internalID: 2999128756851782997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 171
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17de8ab04542a5b0800000000000000
+      internalID: -5358644462307322085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 171
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501cea3dc0c913840800000000000000
+      internalID: 5202110623494619397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 169
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e9cb9077e3bde70800000000000000
+      internalID: 9140968549663940209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 107
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b59d4b819c90b2c0800000000000000
+      internalID: -4417859085529147979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 107
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbb71992280b56c0800000000000000
+      internalID: -4153717286628770858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 107
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09306f56ce3a4950800000000000000
+      internalID: 6434024039376763147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 107
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afc0a95506d83200800000000000000
+      internalID: 160113105238544295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 107
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbd208c674edf7b0800000000000000
+      internalID: -5188739996848038976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 107
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec9e24b84cea0bc0800000000000000
+      internalID: -3815977937238319889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16224981a94513c60800000000000000
+      internalID: 7796105450769097313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 57
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f7cbb443afc3f60800000000000000
+      internalID: 8015556539328528154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 57
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7fb90fe807c65a0800000000000000
+      internalID: -6526718000742270999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 57
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98375732f7d029f0800000000000000
+      internalID: -495158523700234083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 57
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7114398aa1a148e0800000000000000
+      internalID: -1710908629605674629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 57
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd97f710f3fb15e0800000000000000
+      internalID: -1937687002133062194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01893bc98a96ac580800000000000000
+      internalID: -8806109948465145840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a691f8e2208d1720800000000000000
+      internalID: 2818549829229188777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_Chomper_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 14
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7828eaf2ee2a22e0800000000000000
+      internalID: -2149854319708985217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plant_Chomper_0: -4147838379780276349
+      Plant_Chomper_1: 2612946833840822528
+      Plant_Chomper_10: -2986746378335692424
+      Plant_Chomper_11: 6927885490496388796
+      Plant_Chomper_12: 4406034672673249319
+      Plant_Chomper_13: 7787926773588115943
+      Plant_Chomper_14: 445979473416020421
+      Plant_Chomper_15: -6413790627109785707
+      Plant_Chomper_16: 6557318275523385923
+      Plant_Chomper_17: 5204352300771920141
+      Plant_Chomper_18: 7764411648092097003
+      Plant_Chomper_19: -4437702763195886009
+      Plant_Chomper_2: -2554697409575479071
+      Plant_Chomper_20: 2625916323954165645
+      Plant_Chomper_21: 2999128756851782997
+      Plant_Chomper_22: -5358644462307322085
+      Plant_Chomper_23: 5202110623494619397
+      Plant_Chomper_24: 9140968549663940209
+      Plant_Chomper_25: -4417859085529147979
+      Plant_Chomper_26: -4153717286628770858
+      Plant_Chomper_27: 6434024039376763147
+      Plant_Chomper_28: 160113105238544295
+      Plant_Chomper_29: -5188739996848038976
+      Plant_Chomper_3: -3226583048975224043
+      Plant_Chomper_30: -3815977937238319889
+      Plant_Chomper_31: 7796105450769097313
+      Plant_Chomper_32: 8015556539328528154
+      Plant_Chomper_33: -6526718000742270999
+      Plant_Chomper_34: -495158523700234083
+      Plant_Chomper_35: -1710908629605674629
+      Plant_Chomper_36: -1937687002133062194
+      Plant_Chomper_37: -8806109948465145840
+      Plant_Chomper_38: 2818549829229188777
+      Plant_Chomper_39: -2149854319708985217
+      Plant_Chomper_4: 5737420914455385056
+      Plant_Chomper_5: -1558956844919492662
+      Plant_Chomper_6: -8167695825130560186
+      Plant_Chomper_7: 6270751896842941950
+      Plant_Chomper_8: -9058529126824769061
+      Plant_Chomper_9: -926716937383989031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

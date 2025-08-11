@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: b41cc591fb1a03e49af6324629daa29e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5863058641389502728
+    second: oainsddna_0
+  - first:
+      213: 2826419847138993999
+    second: oainsddna_1
+  - first:
+      213: -1945513579318099931
+    second: oainsddna_2
+  - first:
+      213: 123465913899697731
+    second: oainsddna_3
+  - first:
+      213: 1533733447679344119
+    second: oainsddna_4
+  - first:
+      213: 5167937284316902953
+    second: oainsddna_5
+  - first:
+      213: 3680374786031361890
+    second: oainsddna_6
+  - first:
+      213: -3400567688413641899
+    second: oainsddna_7
+  - first:
+      213: 8603977342531763470
+    second: oainsddna_8
+  - first:
+      213: 58237663543803821
+    second: oainsddna_9
+  - first:
+      213: 4971251841941041147
+    second: oainsddna_10
+  - first:
+      213: 4550259716118989651
+    second: oainsddna_11
+  - first:
+      213: -420199352861295561
+    second: oainsddna_12
+  - first:
+      213: -4963871289924529632
+    second: oainsddna_13
+  - first:
+      213: -5975803088630146614
+    second: oainsddna_14
+  - first:
+      213: 2947135120382493544
+    second: oainsddna_15
+  - first:
+      213: -6149020992812679595
+    second: oainsddna_16
+  - first:
+      213: -6567726526999370733
+    second: oainsddna_17
+  - first:
+      213: 2015120585540923216
+    second: oainsddna_18
+  - first:
+      213: 8037833644672568821
+    second: oainsddna_19
+  - first:
+      213: 5424441076147027134
+    second: oainsddna_20
+  - first:
+      213: -1552508904205444272
+    second: oainsddna_21
+  - first:
+      213: 7413122096011220087
+    second: oainsddna_22
+  - first:
+      213: -1363005486323012081
+    second: oainsddna_23
+  - first:
+      213: 4126764736495895345
+    second: oainsddna_24
+  - first:
+      213: 3924048251592259374
+    second: oainsddna_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oainsddna_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014e4145c4cd5150800000000000000
+      internalID: 5863058641389502728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4765de30e5793720800000000000000
+      internalID: 2826419847138993999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520cb0715b52005e0800000000000000
+      internalID: -1945513579318099931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3464cd33893a6b100800000000000000
+      internalID: 123465913899697731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdff01d17ae84510800000000000000
+      internalID: 1533733447679344119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 29
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926b435449338b740800000000000000
+      internalID: 5167937284316902953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 25
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f14b15e51531330800000000000000
+      internalID: 3680374786031361890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5530f6154b1cec0d0800000000000000
+      internalID: -3400567688413641899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d7d15aec7776770800000000000000
+      internalID: 8603977342531763470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafb310b8d6eec000800000000000000
+      internalID: 58237663543803821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe6ef163f6df440800000000000000
+      internalID: 4971251841941041147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bca0f7a15c52f30800000000000000
+      internalID: 4550259716118989651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c7ad53ae62b2af0800000000000000
+      internalID: -420199352861295561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022d94d8c59cc1bb0800000000000000
+      internalID: -4963871289924529632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9948680cea11da0800000000000000
+      internalID: -5975803088630146614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8630a7307c356e820800000000000000
+      internalID: 2947135120382493544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55efaf66cf94aaaa0800000000000000
+      internalID: -6149020992812679595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314ea40658fbad4a0800000000000000
+      internalID: -6567726526999370733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6eb8fe7527fb10800000000000000
+      internalID: 2015120585540923216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd44621d1f1c8f60800000000000000
+      internalID: 8037833644672568821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 13
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcf7c83b6c774b40800000000000000
+      internalID: 5424441076147027134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b143e8061647ae0800000000000000
+      internalID: -1552508904205444272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77419591543b0e660800000000000000
+      internalID: 7413122096011220087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eeec05bb1a51de0800000000000000
+      internalID: -1363005486323012081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_24
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133427ec9a6354930800000000000000
+      internalID: 4126764736495895345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oainsddna_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2736a52815057630800000000000000
+      internalID: 3924048251592259374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      oainsddna_0: 5863058641389502728
+      oainsddna_1: 2826419847138993999
+      oainsddna_10: 4971251841941041147
+      oainsddna_11: 4550259716118989651
+      oainsddna_12: -420199352861295561
+      oainsddna_13: -4963871289924529632
+      oainsddna_14: -5975803088630146614
+      oainsddna_15: 2947135120382493544
+      oainsddna_16: -6149020992812679595
+      oainsddna_17: -6567726526999370733
+      oainsddna_18: 2015120585540923216
+      oainsddna_19: 8037833644672568821
+      oainsddna_2: -1945513579318099931
+      oainsddna_20: 5424441076147027134
+      oainsddna_21: -1552508904205444272
+      oainsddna_22: 7413122096011220087
+      oainsddna_23: -1363005486323012081
+      oainsddna_24: 4126764736495895345
+      oainsddna_25: 3924048251592259374
+      oainsddna_3: 123465913899697731
+      oainsddna_4: 1533733447679344119
+      oainsddna_5: 5167937284316902953
+      oainsddna_6: 3680374786031361890
+      oainsddna_7: -3400567688413641899
+      oainsddna_8: 8603977342531763470
+      oainsddna_9: 58237663543803821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

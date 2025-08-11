@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 55d9da1144aa9f042ae5c4e03f71c213
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4585100905058724057
+    second: asdpasndians_0
+  - first:
+      213: 717422923219051728
+    second: asdpasndians_1
+  - first:
+      213: -5425598573300576112
+    second: asdpasndians_2
+  - first:
+      213: -7788286777373120838
+    second: asdpasndians_3
+  - first:
+      213: -1514182649450862736
+    second: asdpasndians_4
+  - first:
+      213: 1216280173809557005
+    second: asdpasndians_5
+  - first:
+      213: -6501920434992751798
+    second: asdpasndians_6
+  - first:
+      213: -8492034482777466517
+    second: asdpasndians_7
+  - first:
+      213: -9055691494685141330
+    second: asdpasndians_8
+  - first:
+      213: -8526674571434980841
+    second: asdpasndians_9
+  - first:
+      213: 8716213550678899478
+    second: asdpasndians_10
+  - first:
+      213: 2773522710791358786
+    second: asdpasndians_11
+  - first:
+      213: -1689863100923432617
+    second: asdpasndians_12
+  - first:
+      213: -5758104147414026492
+    second: asdpasndians_13
+  - first:
+      213: -1111463202685663447
+    second: asdpasndians_14
+  - first:
+      213: -6334898375936714184
+    second: asdpasndians_15
+  - first:
+      213: -4124863301283872980
+    second: asdpasndians_16
+  - first:
+      213: 7875982728590857395
+    second: asdpasndians_17
+  - first:
+      213: 1742548058800259660
+    second: asdpasndians_18
+  - first:
+      213: 5224860787835834957
+    second: asdpasndians_19
+  - first:
+      213: 6117314379242353843
+    second: asdpasndians_20
+  - first:
+      213: 8726494309564147175
+    second: asdpasndians_21
+  - first:
+      213: -7964427296503403682
+    second: asdpasndians_22
+  - first:
+      213: -436799085112737202
+    second: asdpasndians_23
+  - first:
+      213: -2461999292733535357
+    second: asdpasndians_24
+  - first:
+      213: -1494578037658809958
+    second: asdpasndians_25
+  - first:
+      213: -3495048385081634988
+    second: asdpasndians_26
+  - first:
+      213: 8145087856773987166
+    second: asdpasndians_27
+  - first:
+      213: 2125831220355935019
+    second: asdpasndians_28
+  - first:
+      213: 8176594991079029476
+    second: asdpasndians_29
+  - first:
+      213: -3984643125081502182
+    second: asdpasndians_30
+  - first:
+      213: 8067420203323372189
+    second: asdpasndians_31
+  - first:
+      213: 3564155556673066094
+    second: asdpasndians_32
+  - first:
+      213: -456340241508194497
+    second: asdpasndians_33
+  - first:
+      213: -7009864273783031400
+    second: asdpasndians_34
+  - first:
+      213: -739258810689201609
+    second: asdpasndians_35
+  - first:
+      213: -707418014118668148
+    second: asdpasndians_36
+  - first:
+      213: 4230981792694065343
+    second: asdpasndians_37
+  - first:
+      213: 1362961695226942339
+    second: asdpasndians_38
+  - first:
+      213: 1306512510124634749
+    second: asdpasndians_39
+  - first:
+      213: 4614541017627335747
+    second: asdpasndians_40
+  - first:
+      213: 3773311321668916438
+    second: asdpasndians_41
+  - first:
+      213: 8166254495758022423
+    second: asdpasndians_42
+  - first:
+      213: 1967025527773294715
+    second: asdpasndians_43
+  - first:
+      213: 724195168134088526
+    second: asdpasndians_44
+  - first:
+      213: 7968111343294820618
+    second: asdpasndians_45
+  - first:
+      213: 7429485606471622865
+    second: asdpasndians_46
+  - first:
+      213: -5006802742148490594
+    second: asdpasndians_47
+  - first:
+      213: 2507349278682059795
+    second: asdpasndians_48
+  - first:
+      213: 1298450406093608206
+    second: asdpasndians_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asdpasndians_0
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 975
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72717ae05037e50c0800000000000000
+      internalID: -4585100905058724057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 955
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a13cf85cc4f900800000000000000
+      internalID: 717422923219051728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 975
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0909d88f7d664b4b0800000000000000
+      internalID: -5425598573300576112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_3
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 955
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6adc9a0727ae390800000000000000
+      internalID: -7788286777373120838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_4
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 975
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077eb6e17ea8cfae0800000000000000
+      internalID: -1514182649450862736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 955
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed44bbf5811e010800000000000000
+      internalID: 1216280173809557005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 975
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b576220d984c5a0800000000000000
+      internalID: -6501920434992751798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_7
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 955
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b695ea171ab362a80800000000000000
+      internalID: -8492034482777466517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 955
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea614cf8098b35280800000000000000
+      internalID: -9055691494685141330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 879
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a034e47aa2ba980800000000000000
+      internalID: -8526674571434980841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 879
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b79aa3b0636f870800000000000000
+      internalID: 8716213550678899478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 879
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2498231f5388d7620800000000000000
+      internalID: 2773522710791358786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_12
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 935
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7513b6686766c88e0800000000000000
+      internalID: -1689863100923432617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 915
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407fea129ca1710b0800000000000000
+      internalID: -5758104147414026492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_14
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 935
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c00f1b1a4390f0800000000000000
+      internalID: -1111463202685663447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_15
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 915
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ad716ad7be518a0800000000000000
+      internalID: -6334898375936714184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_16
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 935
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ffde39eaa81c6c0800000000000000
+      internalID: -4124863301283872980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_17
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 915
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b415ca109c1d4d60800000000000000
+      internalID: 7875982728590857395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_18
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 935
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4206d02a36ce2810800000000000000
+      internalID: 1742548058800259660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 915
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4292db343f628840800000000000000
+      internalID: 5224860787835834957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_20
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 895
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4312a540115e450800000000000000
+      internalID: 6117314379242353843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_21
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 895
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5e900f65cba1970800000000000000
+      internalID: 8726494309564147175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_22
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 895
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6d78329ba87190800000000000000
+      internalID: -7964427296503403682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_23
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 895
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42c3addb8d20f9f0800000000000000
+      internalID: -436799085112737202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 812
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bca5fffa835ddd0800000000000000
+      internalID: -2461999292733535357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 812
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a990f308131324be0800000000000000
+      internalID: -1494578037658809958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_26
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 865
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f0866e2081f7fc0800000000000000
+      internalID: -3495048385081634988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_27
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 845
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b7c5f404a290170800000000000000
+      internalID: 8145087856773987166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_28
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 845
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b20c55b38708d10800000000000000
+      internalID: 2125831220355935019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_29
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 845
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf08ba2d9197170800000000000000
+      internalID: 8176594991079029476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_30
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 845
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e80d47034b3b8c0800000000000000
+      internalID: -3984643125081502182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 807
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9236e09eeb35ff60800000000000000
+      internalID: 8067420203323372189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 808
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e649bb7589c667130800000000000000
+      internalID: 3564155556673066094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 806
+        width: 145
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f372038d7f0caa9f0800000000000000
+      internalID: -456340241508194497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_34
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 814
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899f5753595f7be90800000000000000
+      internalID: -7009864273783031400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 814
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73adac74700adb5f0800000000000000
+      internalID: -739258810689201609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 814
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c889eb0701fbe26f0800000000000000
+      internalID: -707418014118668148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_37
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 814
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8dca4168777ba30800000000000000
+      internalID: 4230981792694065343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_38
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 825
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3835776c0763ae210800000000000000
+      internalID: 1362961695226942339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_39
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 805
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72359ca43aa12210800000000000000
+      internalID: 1306512510124634749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_40
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 825
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c952d4b942a0040800000000000000
+      internalID: 4614541017627335747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_41
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 825
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4190bb7ae7d5430800000000000000
+      internalID: 3773311321668916438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_42
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 825
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717f71d723d545170800000000000000
+      internalID: 8166254495758022423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_43
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 778
+        width: 374
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b707d07bb474c4b10800000000000000
+      internalID: 1967025527773294715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 435
+        width: 798
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47cfa02babdc0a00800000000000000
+      internalID: 724195168134088526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_45
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 718
+        width: 377
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0139d3cc0b649e60800000000000000
+      internalID: 7968111343294820618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_46
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 596
+        width: 377
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d06e95cbc5da1760800000000000000
+      internalID: 7429485606471622865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 85
+        width: 798
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a99c5ee63448ab0800000000000000
+      internalID: -5006802742148490594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_48
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 396
+        width: 377
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3141dab62e4ebc220800000000000000
+      internalID: 2507349278682059795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asdpasndians_49
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 91
+        width: 377
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05dbadc3c5050210800000000000000
+      internalID: 1298450406093608206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      asdpasndians_0: -4585100905058724057
+      asdpasndians_1: 717422923219051728
+      asdpasndians_10: 8716213550678899478
+      asdpasndians_11: 2773522710791358786
+      asdpasndians_12: -1689863100923432617
+      asdpasndians_13: -5758104147414026492
+      asdpasndians_14: -1111463202685663447
+      asdpasndians_15: -6334898375936714184
+      asdpasndians_16: -4124863301283872980
+      asdpasndians_17: 7875982728590857395
+      asdpasndians_18: 1742548058800259660
+      asdpasndians_19: 5224860787835834957
+      asdpasndians_2: -5425598573300576112
+      asdpasndians_20: 6117314379242353843
+      asdpasndians_21: 8726494309564147175
+      asdpasndians_22: -7964427296503403682
+      asdpasndians_23: -436799085112737202
+      asdpasndians_24: -2461999292733535357
+      asdpasndians_25: -1494578037658809958
+      asdpasndians_26: -3495048385081634988
+      asdpasndians_27: 8145087856773987166
+      asdpasndians_28: 2125831220355935019
+      asdpasndians_29: 8176594991079029476
+      asdpasndians_3: -7788286777373120838
+      asdpasndians_30: -3984643125081502182
+      asdpasndians_31: 8067420203323372189
+      asdpasndians_32: 3564155556673066094
+      asdpasndians_33: -456340241508194497
+      asdpasndians_34: -7009864273783031400
+      asdpasndians_35: -739258810689201609
+      asdpasndians_36: -707418014118668148
+      asdpasndians_37: 4230981792694065343
+      asdpasndians_38: 1362961695226942339
+      asdpasndians_39: 1306512510124634749
+      asdpasndians_4: -1514182649450862736
+      asdpasndians_40: 4614541017627335747
+      asdpasndians_41: 3773311321668916438
+      asdpasndians_42: 8166254495758022423
+      asdpasndians_43: 1967025527773294715
+      asdpasndians_44: 724195168134088526
+      asdpasndians_45: 7968111343294820618
+      asdpasndians_46: 7429485606471622865
+      asdpasndians_47: -5006802742148490594
+      asdpasndians_48: 2507349278682059795
+      asdpasndians_49: 1298450406093608206
+      asdpasndians_5: 1216280173809557005
+      asdpasndians_6: -6501920434992751798
+      asdpasndians_7: -8492034482777466517
+      asdpasndians_8: -9055691494685141330
+      asdpasndians_9: -8526674571434980841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

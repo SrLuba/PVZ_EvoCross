@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 844775ccd72859444bb8ab03416245b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1058337259283882173
+    second: wadawdad_0
+  - first:
+      213: -4510510376950633777
+    second: wadawdad_1
+  - first:
+      213: -1905398167764271320
+    second: wadawdad_2
+  - first:
+      213: -3493016968520150791
+    second: wadawdad_3
+  - first:
+      213: 8097822135231742792
+    second: wadawdad_4
+  - first:
+      213: 4441168895808982197
+    second: wadawdad_5
+  - first:
+      213: -1610457891418743736
+    second: wadawdad_6
+  - first:
+      213: 8833098129087085607
+    second: wadawdad_7
+  - first:
+      213: -6649616379542608343
+    second: wadawdad_8
+  - first:
+      213: 7664687623910715713
+    second: wadawdad_9
+  - first:
+      213: 7897629291956993102
+    second: wadawdad_10
+  - first:
+      213: -1394156833568426593
+    second: wadawdad_11
+  - first:
+      213: 5299215584029191139
+    second: wadawdad_12
+  - first:
+      213: 7557482374918879731
+    second: wadawdad_13
+  - first:
+      213: 1607982718029542046
+    second: wadawdad_14
+  - first:
+      213: -1316153541783698192
+    second: wadawdad_15
+  - first:
+      213: 4422794950828949220
+    second: wadawdad_16
+  - first:
+      213: -1846955070670714879
+    second: wadawdad_17
+  - first:
+      213: -5111944536135220012
+    second: wadawdad_18
+  - first:
+      213: -8140800870848696819
+    second: wadawdad_19
+  - first:
+      213: -1113244283552078686
+    second: wadawdad_20
+  - first:
+      213: -1686657316782930891
+    second: wadawdad_21
+  - first:
+      213: 4653818371495305521
+    second: wadawdad_22
+  - first:
+      213: -7488154267784872207
+    second: wadawdad_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wadawdad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd2d7bed70051f0800000000000000
+      internalID: -1058337259283882173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae42ab5b27761c0800000000000000
+      internalID: -4510510376950633777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ffabe267aae85e0800000000000000
+      internalID: -1905398167764271320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d1fce29f468fc0800000000000000
+      internalID: -3493016968520150791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84388c0f35e316070800000000000000
+      internalID: 8097822135231742792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc4536949332ad30800000000000000
+      internalID: 4441168895808982197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cd240941186a9e0800000000000000
+      internalID: -1610457891418743736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c376ad2f7759a70800000000000000
+      internalID: 8833098129087085607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9266ebc4221d7b3a0800000000000000
+      internalID: -6649616379542608343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f781e8c07e5a60800000000000000
+      internalID: 7664687623910715713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf0d26ff30a9d60800000000000000
+      internalID: 7897629291956993102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 66
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9578f51fb5f6ace0800000000000000
+      internalID: -1394156833568426593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb264a4f789a8940800000000000000
+      internalID: 5299215584029191139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b051cd2291e860800000000000000
+      internalID: 7557482374918879731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e923e1933c3b05610800000000000000
+      internalID: 1607982718029542046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f44c18b3551cbde0800000000000000
+      internalID: -1316153541783698192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eefc86239ce06d30800000000000000
+      internalID: 4422794950828949220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108c098162c4e56e0800000000000000
+      internalID: -1846955070670714879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d449245789be09b0800000000000000
+      internalID: -5111944536135220012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e6fd16db0160f80800000000000000
+      internalID: -8140800870848696819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4e4aae836fc80f0800000000000000
+      internalID: -1113244283552078686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534075f4b1ac798e0800000000000000
+      internalID: -1686657316782930891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1312a22e62fa59040800000000000000
+      internalID: 4653818371495305521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wadawdad_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe7b5d0e5bb41890800000000000000
+      internalID: -7488154267784872207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wadawdad_0: -1058337259283882173
+      wadawdad_1: -4510510376950633777
+      wadawdad_10: 7897629291956993102
+      wadawdad_11: -1394156833568426593
+      wadawdad_12: 5299215584029191139
+      wadawdad_13: 7557482374918879731
+      wadawdad_14: 1607982718029542046
+      wadawdad_15: -1316153541783698192
+      wadawdad_16: 4422794950828949220
+      wadawdad_17: -1846955070670714879
+      wadawdad_18: -5111944536135220012
+      wadawdad_19: -8140800870848696819
+      wadawdad_2: -1905398167764271320
+      wadawdad_20: -1113244283552078686
+      wadawdad_21: -1686657316782930891
+      wadawdad_22: 4653818371495305521
+      wadawdad_23: -7488154267784872207
+      wadawdad_3: -3493016968520150791
+      wadawdad_4: 8097822135231742792
+      wadawdad_5: 4441168895808982197
+      wadawdad_6: -1610457891418743736
+      wadawdad_7: 8833098129087085607
+      wadawdad_8: -6649616379542608343
+      wadawdad_9: 7664687623910715713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

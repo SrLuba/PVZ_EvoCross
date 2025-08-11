@@ -1,0 +1,3562 @@
+fileFormatVersion: 2
+guid: c56358695dd28484581db1fe99daee5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1956749997210324172
+    second: sbankdla_0
+  - first:
+      213: -8501625767417662189
+    second: sbankdla_1
+  - first:
+      213: -8478845866899550739
+    second: sbankdla_2
+  - first:
+      213: -7567957600216388281
+    second: sbankdla_3
+  - first:
+      213: 7424600269137307413
+    second: sbankdla_4
+  - first:
+      213: 4222210078914093714
+    second: sbankdla_5
+  - first:
+      213: 6906253014256598455
+    second: sbankdla_6
+  - first:
+      213: 2584932085679468326
+    second: sbankdla_7
+  - first:
+      213: -5807925297522742351
+    second: sbankdla_8
+  - first:
+      213: 533049584204853149
+    second: sbankdla_9
+  - first:
+      213: 1838000637281252055
+    second: sbankdla_10
+  - first:
+      213: 1134079707710599766
+    second: sbankdla_11
+  - first:
+      213: 2332891941927607503
+    second: sbankdla_12
+  - first:
+      213: 4428293605136505941
+    second: sbankdla_13
+  - first:
+      213: -3235404571277548665
+    second: sbankdla_14
+  - first:
+      213: -1129441108330107434
+    second: sbankdla_15
+  - first:
+      213: 8129493917079035948
+    second: sbankdla_16
+  - first:
+      213: -560145416125808129
+    second: sbankdla_17
+  - first:
+      213: -8747117108328559555
+    second: sbankdla_18
+  - first:
+      213: -2469500029176448181
+    second: sbankdla_19
+  - first:
+      213: 3314790062329565118
+    second: sbankdla_20
+  - first:
+      213: -8936995727125011480
+    second: sbankdla_21
+  - first:
+      213: -6853350530484374352
+    second: sbankdla_22
+  - first:
+      213: 997696350564288573
+    second: sbankdla_23
+  - first:
+      213: 1752961900550667422
+    second: sbankdla_24
+  - first:
+      213: -1286622455776910533
+    second: sbankdla_25
+  - first:
+      213: 4813346400354080409
+    second: sbankdla_26
+  - first:
+      213: 6535393614104529631
+    second: sbankdla_27
+  - first:
+      213: -6114903017415161310
+    second: sbankdla_28
+  - first:
+      213: -2598919357162735927
+    second: sbankdla_29
+  - first:
+      213: -7326484704996346227
+    second: sbankdla_30
+  - first:
+      213: -7365421632385487637
+    second: sbankdla_31
+  - first:
+      213: -937618500789592577
+    second: sbankdla_32
+  - first:
+      213: 8349716539699335812
+    second: sbankdla_33
+  - first:
+      213: 1537198922184121976
+    second: sbankdla_34
+  - first:
+      213: -5482951236158077346
+    second: sbankdla_35
+  - first:
+      213: -6240317278549139464
+    second: sbankdla_36
+  - first:
+      213: -6983543562233131515
+    second: sbankdla_37
+  - first:
+      213: 8962897284103847991
+    second: sbankdla_38
+  - first:
+      213: -638445350526235047
+    second: sbankdla_39
+  - first:
+      213: -2443549018956165233
+    second: sbankdla_40
+  - first:
+      213: 8149459548667264998
+    second: sbankdla_41
+  - first:
+      213: -3871610941318077700
+    second: sbankdla_42
+  - first:
+      213: 348158787701477544
+    second: sbankdla_43
+  - first:
+      213: 8647863176270834974
+    second: sbankdla_44
+  - first:
+      213: -6001186843160607855
+    second: sbankdla_45
+  - first:
+      213: -6520964543863846889
+    second: sbankdla_46
+  - first:
+      213: 8175997836914265983
+    second: sbankdla_47
+  - first:
+      213: -7730986731815696727
+    second: sbankdla_48
+  - first:
+      213: 2544780285539454619
+    second: sbankdla_49
+  - first:
+      213: -3278706291396581114
+    second: sbankdla_50
+  - first:
+      213: -8288133261139568119
+    second: sbankdla_51
+  - first:
+      213: 1170003888001514646
+    second: sbankdla_52
+  - first:
+      213: 2046594305430677456
+    second: sbankdla_53
+  - first:
+      213: -2428859755562516027
+    second: sbankdla_54
+  - first:
+      213: 3290444516230374228
+    second: sbankdla_55
+  - first:
+      213: -4019005276652650708
+    second: sbankdla_56
+  - first:
+      213: 8517845524497194265
+    second: sbankdla_57
+  - first:
+      213: -2865847788849670374
+    second: sbankdla_58
+  - first:
+      213: 4938076847907064164
+    second: sbankdla_59
+  - first:
+      213: 8945031174711708707
+    second: sbankdla_60
+  - first:
+      213: -3789905156042720777
+    second: sbankdla_61
+  - first:
+      213: 392569668000499823
+    second: sbankdla_62
+  - first:
+      213: -8794098772350280143
+    second: sbankdla_63
+  - first:
+      213: 8503282869932459256
+    second: sbankdla_64
+  - first:
+      213: 3267940450762699520
+    second: sbankdla_65
+  - first:
+      213: 2369982684253043560
+    second: sbankdla_66
+  - first:
+      213: -4242438053249677197
+    second: sbankdla_67
+  - first:
+      213: 7188300470923396565
+    second: sbankdla_68
+  - first:
+      213: 6256136004611428885
+    second: sbankdla_69
+  - first:
+      213: -2703205522767064159
+    second: sbankdla_70
+  - first:
+      213: 9162359799067560686
+    second: sbankdla_71
+  - first:
+      213: 8659543025605950396
+    second: sbankdla_72
+  - first:
+      213: -6020028839444611817
+    second: sbankdla_73
+  - first:
+      213: 7886615819369300368
+    second: sbankdla_74
+  - first:
+      213: 2645305313568748801
+    second: sbankdla_75
+  - first:
+      213: 6913670711947681832
+    second: sbankdla_76
+  - first:
+      213: -8014464398115481371
+    second: sbankdla_77
+  - first:
+      213: 8382823672783395813
+    second: sbankdla_78
+  - first:
+      213: -6805713410232747415
+    second: sbankdla_79
+  - first:
+      213: -756551162769762714
+    second: sbankdla_80
+  - first:
+      213: 5041497990660076008
+    second: sbankdla_81
+  - first:
+      213: 2221488381275650339
+    second: sbankdla_82
+  - first:
+      213: -6262786755600776883
+    second: sbankdla_83
+  - first:
+      213: 3779660528931837912
+    second: sbankdla_84
+  - first:
+      213: 1139727223663016698
+    second: sbankdla_85
+  - first:
+      213: -2295039824698740277
+    second: sbankdla_86
+  - first:
+      213: -2900880701546269983
+    second: sbankdla_87
+  - first:
+      213: 7597425172581309618
+    second: sbankdla_88
+  - first:
+      213: 7846517719986533495
+    second: sbankdla_89
+  - first:
+      213: -255283183031309262
+    second: sbankdla_90
+  - first:
+      213: 2991132015617222628
+    second: sbankdla_91
+  - first:
+      213: 6365852385550090878
+    second: sbankdla_92
+  - first:
+      213: 5536976451662672741
+    second: sbankdla_93
+  - first:
+      213: -4278087179179025942
+    second: sbankdla_94
+  - first:
+      213: -6746774710362433938
+    second: sbankdla_95
+  - first:
+      213: 4682724323149915533
+    second: sbankdla_96
+  - first:
+      213: -4413266556479012959
+    second: sbankdla_97
+  - first:
+      213: 8106624921757747163
+    second: sbankdla_98
+  - first:
+      213: -7627954640855966738
+    second: sbankdla_99
+  - first:
+      213: 5292596463324161384
+    second: sbankdla_100
+  - first:
+      213: -6279385246120149317
+    second: sbankdla_101
+  - first:
+      213: -2959350420637705509
+    second: sbankdla_102
+  - first:
+      213: -205428612611228322
+    second: sbankdla_103
+  - first:
+      213: 9136303335276660194
+    second: sbankdla_104
+  - first:
+      213: 7577386006850181482
+    second: sbankdla_105
+  - first:
+      213: -41848633875568454
+    second: sbankdla_106
+  - first:
+      213: -502557393020826497
+    second: sbankdla_107
+  - first:
+      213: -4583795583590820866
+    second: sbankdla_108
+  - first:
+      213: 918299329379091124
+    second: sbankdla_109
+  - first:
+      213: 1202868321835157312
+    second: sbankdla_110
+  - first:
+      213: -5232991904736445217
+    second: sbankdla_111
+  - first:
+      213: 1069450067910767454
+    second: sbankdla_112
+  - first:
+      213: 4965416098732466700
+    second: sbankdla_113
+  - first:
+      213: -394385996323879568
+    second: sbankdla_114
+  - first:
+      213: 5817934618623303306
+    second: sbankdla_115
+  - first:
+      213: -4291256698781350945
+    second: sbankdla_116
+  - first:
+      213: -7846854110249866720
+    second: sbankdla_117
+  - first:
+      213: 7923218501665658419
+    second: sbankdla_118
+  - first:
+      213: 5464764404116692377
+    second: sbankdla_119
+  - first:
+      213: 7930549185126878831
+    second: sbankdla_120
+  - first:
+      213: -7135750314603482122
+    second: sbankdla_121
+  - first:
+      213: 2222344813894354729
+    second: sbankdla_122
+  - first:
+      213: -983221937050118483
+    second: sbankdla_123
+  - first:
+      213: -2787405578090579863
+    second: sbankdla_124
+  - first:
+      213: 2698688537660324698
+    second: sbankdla_125
+  - first:
+      213: -7086980761030893668
+    second: sbankdla_126
+  - first:
+      213: -778034145674987705
+    second: sbankdla_127
+  - first:
+      213: -8723466526244447652
+    second: sbankdla_128
+  - first:
+      213: -4826096478136819788
+    second: sbankdla_129
+  - first:
+      213: -4853186578940202364
+    second: sbankdla_130
+  - first:
+      213: 3159264003997724090
+    second: sbankdla_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sbankdla_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 634
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433380eae3a38d4e0800000000000000
+      internalID: -1956749997210324172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 672
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31533c77868240a80800000000000000
+      internalID: -8501625767417662189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 669
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc92e5b96155a80800000000000000
+      internalID: -8478845866899550739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 634
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d62ebc8a639f690800000000000000
+      internalID: -7567957600216388281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 634
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e2398b9a790760800000000000000
+      internalID: 7424600269137307413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 634
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292afb052bd489a30800000000000000
+      internalID: 4222210078914093714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 634
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd3cbb8680f7df50800000000000000
+      internalID: 6906253014256598455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 634
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f2f6f49068fd320800000000000000
+      internalID: 2584932085679468326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 634
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbe62fa6ba166fa0800000000000000
+      internalID: -5807925297522742351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 634
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f233ac5c5c56700800000000000000
+      internalID: 533049584204853149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 634
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2371a67d3e18910800000000000000
+      internalID: 1838000637281252055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 592
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652b11d4c7f0dbf00800000000000000
+      internalID: 1134079707710599766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc57f96cd8106020800000000000000
+      internalID: 2332891941927607503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 591
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c9b4f5295747d30800000000000000
+      internalID: 4428293605136505941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 587
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783a3503fa88913d0800000000000000
+      internalID: -3235404571277548665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 592
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dda247cb4b6350f0800000000000000
+      internalID: -1129441108330107434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 592
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e13b45a3c1d070800000000000000
+      internalID: 8129493917079035948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 615
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1024936b6f938f0800000000000000
+      internalID: -560145416125808129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 590
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c855d855ffb9680800000000000000
+      internalID: -8747117108328559555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 590
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bfe14bec29abdd0800000000000000
+      internalID: -2469500029176448181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 588
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf062acfff700e20800000000000000
+      internalID: 3314790062329565118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 589
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3a7858cb969f380800000000000000
+      internalID: -8936995727125011480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 535
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b47e3dc00204e0a0800000000000000
+      internalID: -6853350530484374352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 535
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3886197b8788dd00800000000000000
+      internalID: 997696350564288573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 535
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cbd1b9f85c35810800000000000000
+      internalID: 1752961900550667422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 535
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33606b71bff42ee0800000000000000
+      internalID: -1286622455776910533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 535
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99692068c017cc240800000000000000
+      internalID: 4813346400354080409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 535
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda8e04bdd162ba50800000000000000
+      internalID: 6535393614104529631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 528
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a41039a10832ba0800000000000000
+      internalID: -6114903017415161310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 539
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6bd644d98ceebd0800000000000000
+      internalID: -2598919357162735927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 531
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d863c5a6af8135a90800000000000000
+      internalID: -7326484704996346227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 487
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec6fac8c04c8c990800000000000000
+      internalID: -7365421632385487637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 483
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1a95f0f8ecf2f0800000000000000
+      internalID: -937618500789592577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 483
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4829bf344f620e370800000000000000
+      internalID: 8349716539699335812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 482
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ed5e9764a355510800000000000000
+      internalID: 1537198922184121976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 482
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56420096e4a8e3b0800000000000000
+      internalID: -5482951236158077346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 484
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff985e6f70f569a0800000000000000
+      internalID: -6240317278549139464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 482
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec0ab6128751f90800000000000000
+      internalID: -6983543562233131515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 429
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730c259a79b926c70800000000000000
+      internalID: 8962897284103847991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 430
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e42691659c327f0800000000000000
+      internalID: -638445350526235047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 424
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f0ddd1d15c61ed0800000000000000
+      internalID: -2443549018956165233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 426
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef3ab52842b81170800000000000000
+      internalID: 8149459548667264998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 426
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2683e8c56454ac0800000000000000
+      internalID: -3871610941318077700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 426
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a09062a298e4d400800000000000000
+      internalID: 348158787701477544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 427
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dedcf8db1630870800000000000000
+      internalID: 8647863176270834974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 381
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1930aae9c5087bca0800000000000000
+      internalID: -6001186843160607855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 380
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71804120c41e085a0800000000000000
+      internalID: -6520964543863846889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 379
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f03a1e6baf67170800000000000000
+      internalID: 8175997836914265983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 381
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a60ed6278406b490800000000000000
+      internalID: -7730986731815696727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 381
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e0ff6df20e05320800000000000000
+      internalID: 2544780285539454619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_50
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 381
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609e772dff1bf72d0800000000000000
+      internalID: -3278706291396581114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 381
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a1dae16b2aafc80800000000000000
+      internalID: -8288133261139568119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 382
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cf7225650bc3010800000000000000
+      internalID: 1170003888001514646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 383
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7688e6da6f66c10800000000000000
+      internalID: 2046594305430677456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 385
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c14474cbe4fa4ed0800000000000000
+      internalID: -2428859755562516027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 334
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4532b0f9ad10aad20800000000000000
+      internalID: 3290444516230374228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 334
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fb2b69eff9938c0800000000000000
+      internalID: -4019005276652650708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 336
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d5e430067753670800000000000000
+      internalID: 8517845524497194265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 336
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17d645be967a38d0800000000000000
+      internalID: -2865847788849670374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_59
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 335
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469c419eab2978440800000000000000
+      internalID: 4938076847907064164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 337
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8c79e572232c70800000000000000
+      internalID: 8945031174711708707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 337
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9f6a1275d876bc0800000000000000
+      internalID: -3789905156042720777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 337
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6843ca7800b27500800000000000000
+      internalID: 392569668000499823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 338
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13edc5a72c515f580800000000000000
+      internalID: -8794098772350280143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_64
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 340
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f40df6c7bab10670800000000000000
+      internalID: 8503282869932459256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 298
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00337d2968e0a5d20800000000000000
+      internalID: 3267940450762699520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 296
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bbab2d1bed3e020800000000000000
+      internalID: 2369982684253043560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 297
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37804766115df15c0800000000000000
+      internalID: -4242438053249677197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_68
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 299
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5892c6139f1c360800000000000000
+      internalID: 7188300470923396565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_69
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 299
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512556dbc8242d650800000000000000
+      internalID: 6256136004611428885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 299
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3589436e84c7ad0800000000000000
+      internalID: -2703205522767064159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_71
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 299
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeacdb761bd372f70800000000000000
+      internalID: 9162359799067560686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_72
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 299
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb34766080ec2870800000000000000
+      internalID: 8659543025605950396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 302
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dfb4f7aaf847ca0800000000000000
+      internalID: -6020028839444611817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091cb797d43e27d60800000000000000
+      internalID: 7886615819369300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_75
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 256
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f7b1da2306b420800000000000000
+      internalID: 2645305313568748801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_76
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 254
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820e9afd1ea42ff50800000000000000
+      internalID: 6913670711947681832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 255
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8df45a717e6c090800000000000000
+      internalID: -8014464398115481371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_78
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 255
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb5dfe57b5c55470800000000000000
+      internalID: 8382823672783395813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 256
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af6fb26bf3d81a0800000000000000
+      internalID: -6805713410232747415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 257
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66613b0d9b03085f0800000000000000
+      internalID: -756551162769762714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 255
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1b32526bff6f540800000000000000
+      internalID: 5041497990660076008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_82
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 254
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329b79ea9ef44de10800000000000000
+      internalID: 2221488381275650339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d410560a0ac1619a0800000000000000
+      internalID: -6262786755600776883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_84
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71c8eb93d047430800000000000000
+      internalID: 3779660528931837912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_85
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 216
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afab6431fdf11df00800000000000000
+      internalID: 1139727223663016698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 215
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1f47760716620e0800000000000000
+      internalID: -2295039824698740277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_87
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 216
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e27c881f500eb7d0800000000000000
+      internalID: -2900880701546269983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_88
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 217
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcd15b01f97f6960800000000000000
+      internalID: 7597425172581309618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_89
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774fa9f2b4e64ec60800000000000000
+      internalID: 7846517719986533495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_90
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 224
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca94e2c4d057cf0800000000000000
+      internalID: -255283183031309262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 219
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7a92378b2a28920800000000000000
+      internalID: 2991132015617222628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 182
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e724945540d085850800000000000000
+      internalID: 6365852385550090878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 178
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5637e032fba47dc40800000000000000
+      internalID: 5536976451662672741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 179
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae991e6706e21a4c0800000000000000
+      internalID: -4278087179179025942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_95
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 178
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6612499524ae52a0800000000000000
+      internalID: -6746774710362433938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_96
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 178
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85ae6636f06cf040800000000000000
+      internalID: 4682724323149915533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_97
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 178
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aff4f9037de0c2c0800000000000000
+      internalID: -4413266556479012959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_98
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 177
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd703b46a64808070800000000000000
+      internalID: 8106624921757747163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_99
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 178
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebdcf43baf042690800000000000000
+      internalID: -7627954640855966738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_100
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 180
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865ece72174137940800000000000000
+      internalID: 5292596463324161384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbefd2563642bd8a0800000000000000
+      internalID: -6279385246120149317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda9cf3c8764ee6d0800000000000000
+      internalID: -2959350420637705509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 130
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d3b96e3cb262df0800000000000000
+      internalID: -205428612611228322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 132
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5c16b2a7baace70800000000000000
+      internalID: 9136303335276660194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_105
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 130
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6912503d68482960800000000000000
+      internalID: 7577386006850181482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 131
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8e283a3e25b6ff0800000000000000
+      internalID: -41848633875568454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_107
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 130
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c4fb5b6be8609f0800000000000000
+      internalID: -502557393020826497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_108
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 130
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef39015e3361360c0800000000000000
+      internalID: -4583795583590820866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_109
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 132
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2ce1def547ebc00800000000000000
+      internalID: 918299329379091124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_110
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 135
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0470e8a9d5271b010800000000000000
+      internalID: 1202868321835157312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_111
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 99
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc70b5969da067b0800000000000000
+      internalID: -5232991904736445217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53b6daab2377de00800000000000000
+      internalID: 1069450067910767454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_113
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 92
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0264f642a3b8e440800000000000000
+      internalID: 4965416098732466700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 92
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0750ab0a60cd68af0800000000000000
+      internalID: -394385996323879568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_115
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 92
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5d7df5b47db050800000000000000
+      internalID: 5817934618623303306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_116
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 92
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd34f1db4c46274c0800000000000000
+      internalID: -4291256698781350945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_117
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 92
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a2e3ad2cf5a1390800000000000000
+      internalID: -7846854110249866720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_118
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 91
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336959d8f3de4fd60800000000000000
+      internalID: 7923218501665658419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_119
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 90
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d1390a54eb6db40800000000000000
+      internalID: 5464764404116692377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_120
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 82
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e404d4778fe0e60800000000000000
+      internalID: 7930549185126878831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_121
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 52
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37d2c45e8b8fc90800000000000000
+      internalID: -7135750314603482122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_122
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 56
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927ca9075da57de10800000000000000
+      internalID: 2222344813894354729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_123
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 54
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da691ca8bd4ea52f0800000000000000
+      internalID: -983221937050118483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_124
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 53
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f7f025652159d0800000000000000
+      internalID: -2787405578090579863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_125
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b79ae3deaa37520800000000000000
+      internalID: 2698688537660324698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_126
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 12
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd9b8db8cf5ad90800000000000000
+      internalID: -7086980761030893668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_127
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 12
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747fae3111ed335f0800000000000000
+      internalID: -778034145674987705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_128
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a503dc96500f680800000000000000
+      internalID: -8723466526244447652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_129
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 11
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf14e8a2d2460db0800000000000000
+      internalID: -4826096478136819788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_130
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 12
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482739d058406acb0800000000000000
+      internalID: -4853186578940202364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbankdla_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 11
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd66f58fd5f7db20800000000000000
+      internalID: 3159264003997724090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sbankdla_0: -1956749997210324172
+      sbankdla_1: -8501625767417662189
+      sbankdla_10: 1838000637281252055
+      sbankdla_100: 5292596463324161384
+      sbankdla_101: -6279385246120149317
+      sbankdla_102: -2959350420637705509
+      sbankdla_103: -205428612611228322
+      sbankdla_104: 9136303335276660194
+      sbankdla_105: 7577386006850181482
+      sbankdla_106: -41848633875568454
+      sbankdla_107: -502557393020826497
+      sbankdla_108: -4583795583590820866
+      sbankdla_109: 918299329379091124
+      sbankdla_11: 1134079707710599766
+      sbankdla_110: 1202868321835157312
+      sbankdla_111: -5232991904736445217
+      sbankdla_112: 1069450067910767454
+      sbankdla_113: 4965416098732466700
+      sbankdla_114: -394385996323879568
+      sbankdla_115: 5817934618623303306
+      sbankdla_116: -4291256698781350945
+      sbankdla_117: -7846854110249866720
+      sbankdla_118: 7923218501665658419
+      sbankdla_119: 5464764404116692377
+      sbankdla_12: 2332891941927607503
+      sbankdla_120: 7930549185126878831
+      sbankdla_121: -7135750314603482122
+      sbankdla_122: 2222344813894354729
+      sbankdla_123: -983221937050118483
+      sbankdla_124: -2787405578090579863
+      sbankdla_125: 2698688537660324698
+      sbankdla_126: -7086980761030893668
+      sbankdla_127: -778034145674987705
+      sbankdla_128: -8723466526244447652
+      sbankdla_129: -4826096478136819788
+      sbankdla_13: 4428293605136505941
+      sbankdla_130: -4853186578940202364
+      sbankdla_131: 3159264003997724090
+      sbankdla_14: -3235404571277548665
+      sbankdla_15: -1129441108330107434
+      sbankdla_16: 8129493917079035948
+      sbankdla_17: -560145416125808129
+      sbankdla_18: -8747117108328559555
+      sbankdla_19: -2469500029176448181
+      sbankdla_2: -8478845866899550739
+      sbankdla_20: 3314790062329565118
+      sbankdla_21: -8936995727125011480
+      sbankdla_22: -6853350530484374352
+      sbankdla_23: 997696350564288573
+      sbankdla_24: 1752961900550667422
+      sbankdla_25: -1286622455776910533
+      sbankdla_26: 4813346400354080409
+      sbankdla_27: 6535393614104529631
+      sbankdla_28: -6114903017415161310
+      sbankdla_29: -2598919357162735927
+      sbankdla_3: -7567957600216388281
+      sbankdla_30: -7326484704996346227
+      sbankdla_31: -7365421632385487637
+      sbankdla_32: -937618500789592577
+      sbankdla_33: 8349716539699335812
+      sbankdla_34: 1537198922184121976
+      sbankdla_35: -5482951236158077346
+      sbankdla_36: -6240317278549139464
+      sbankdla_37: -6983543562233131515
+      sbankdla_38: 8962897284103847991
+      sbankdla_39: -638445350526235047
+      sbankdla_4: 7424600269137307413
+      sbankdla_40: -2443549018956165233
+      sbankdla_41: 8149459548667264998
+      sbankdla_42: -3871610941318077700
+      sbankdla_43: 348158787701477544
+      sbankdla_44: 8647863176270834974
+      sbankdla_45: -6001186843160607855
+      sbankdla_46: -6520964543863846889
+      sbankdla_47: 8175997836914265983
+      sbankdla_48: -7730986731815696727
+      sbankdla_49: 2544780285539454619
+      sbankdla_5: 4222210078914093714
+      sbankdla_50: -3278706291396581114
+      sbankdla_51: -8288133261139568119
+      sbankdla_52: 1170003888001514646
+      sbankdla_53: 2046594305430677456
+      sbankdla_54: -2428859755562516027
+      sbankdla_55: 3290444516230374228
+      sbankdla_56: -4019005276652650708
+      sbankdla_57: 8517845524497194265
+      sbankdla_58: -2865847788849670374
+      sbankdla_59: 4938076847907064164
+      sbankdla_6: 6906253014256598455
+      sbankdla_60: 8945031174711708707
+      sbankdla_61: -3789905156042720777
+      sbankdla_62: 392569668000499823
+      sbankdla_63: -8794098772350280143
+      sbankdla_64: 8503282869932459256
+      sbankdla_65: 3267940450762699520
+      sbankdla_66: 2369982684253043560
+      sbankdla_67: -4242438053249677197
+      sbankdla_68: 7188300470923396565
+      sbankdla_69: 6256136004611428885
+      sbankdla_7: 2584932085679468326
+      sbankdla_70: -2703205522767064159
+      sbankdla_71: 9162359799067560686
+      sbankdla_72: 8659543025605950396
+      sbankdla_73: -6020028839444611817
+      sbankdla_74: 7886615819369300368
+      sbankdla_75: 2645305313568748801
+      sbankdla_76: 6913670711947681832
+      sbankdla_77: -8014464398115481371
+      sbankdla_78: 8382823672783395813
+      sbankdla_79: -6805713410232747415
+      sbankdla_8: -5807925297522742351
+      sbankdla_80: -756551162769762714
+      sbankdla_81: 5041497990660076008
+      sbankdla_82: 2221488381275650339
+      sbankdla_83: -6262786755600776883
+      sbankdla_84: 3779660528931837912
+      sbankdla_85: 1139727223663016698
+      sbankdla_86: -2295039824698740277
+      sbankdla_87: -2900880701546269983
+      sbankdla_88: 7597425172581309618
+      sbankdla_89: 7846517719986533495
+      sbankdla_9: 533049584204853149
+      sbankdla_90: -255283183031309262
+      sbankdla_91: 2991132015617222628
+      sbankdla_92: 6365852385550090878
+      sbankdla_93: 5536976451662672741
+      sbankdla_94: -4278087179179025942
+      sbankdla_95: -6746774710362433938
+      sbankdla_96: 4682724323149915533
+      sbankdla_97: -4413266556479012959
+      sbankdla_98: 8106624921757747163
+      sbankdla_99: -7627954640855966738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

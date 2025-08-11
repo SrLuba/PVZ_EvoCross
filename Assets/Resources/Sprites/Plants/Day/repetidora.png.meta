@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 2c36902cc41fe1a4ba3fd04eabb7d803
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1164344475644410519
+    second: repetidora_0
+  - first:
+      213: 334974287321993234
+    second: repetidora_1
+  - first:
+      213: 2870181724486322090
+    second: repetidora_2
+  - first:
+      213: -2104049545113001153
+    second: repetidora_3
+  - first:
+      213: -6731164385434538849
+    second: repetidora_4
+  - first:
+      213: 8707707363647001871
+    second: repetidora_5
+  - first:
+      213: -8776077877583917949
+    second: repetidora_6
+  - first:
+      213: -508012566938405875
+    second: repetidora_7
+  - first:
+      213: 4428250494562185654
+    second: repetidora_8
+  - first:
+      213: -1292063406798044443
+    second: repetidora_9
+  - first:
+      213: 6503301761601038397
+    second: repetidora_10
+  - first:
+      213: 8471491191331940647
+    second: repetidora_11
+  - first:
+      213: 1187367052206552575
+    second: repetidora_12
+  - first:
+      213: 4635448144867658240
+    second: repetidora_13
+  - first:
+      213: -4865846743910009981
+    second: repetidora_14
+  - first:
+      213: -1600163952400840478
+    second: repetidora_15
+  - first:
+      213: -3114071218501416738
+    second: repetidora_16
+  - first:
+      213: -7617262513892274429
+    second: repetidora_17
+  - first:
+      213: -3571866254999676958
+    second: repetidora_18
+  - first:
+      213: -7132669170918246319
+    second: repetidora_19
+  - first:
+      213: 3827325618993093855
+    second: repetidora_20
+  - first:
+      213: 6670262665338657595
+    second: repetidora_21
+  - first:
+      213: 2270137425099334746
+    second: repetidora_22
+  - first:
+      213: -369160081538992907
+    second: repetidora_23
+  - first:
+      213: -1677451245152474411
+    second: repetidora_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: repetidora_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 211
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965c60d4eda67dfe0800000000000000
+      internalID: -1164344475644410519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 210
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21097bce65116a400800000000000000
+      internalID: 334974287321993234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 205
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa743d0521fe4d720800000000000000
+      internalID: 2870181724486322090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 163
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a7b1261aecc2e0800000000000000
+      internalID: -2104049545113001153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 196
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ce96997a91692a0800000000000000
+      internalID: -6731164385434538849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 202
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059b3a36bdf7d870800000000000000
+      internalID: 8707707363647001871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c42710bab153680800000000000000
+      internalID: -8776077877583917949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b33e034d23f8f0800000000000000
+      internalID: -508012566938405875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 163
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1b3d8ec5e447d30800000000000000
+      internalID: 4428250494562185654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 163
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2858a5d2ba11ee0800000000000000
+      internalID: -1292063406798044443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38e6670f7e504a50800000000000000
+      internalID: 6503301761601038397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 163
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729e039ca58c09570800000000000000
+      internalID: 8471491191331940647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 115
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff536c40b006a7010800000000000000
+      internalID: 1187367052206552575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 115
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a8491378b645040800000000000000
+      internalID: 4635448144867658240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383b0c1ba2a097cb0800000000000000
+      internalID: -4865846743910009981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 115
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e843c20d531bc9e0800000000000000
+      internalID: -1600163952400840478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 67
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed884ffc9b898c4d0800000000000000
+      internalID: -3114071218501416738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f4d820a1c0a4690800000000000000
+      internalID: -7617262513892274429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 67
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e71a8dc09e2e6ec0800000000000000
+      internalID: -3571866254999676958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b907fd2ba30d90800000000000000
+      internalID: -7132669170918246319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 67
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd5d75f546d1530800000000000000
+      internalID: 3827325618993093855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b9f06bd88819c50800000000000000
+      internalID: 6670262665338657595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54ad5ed5f5218f10800000000000000
+      internalID: 2270137425099334746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f43d9a9cda70eaf0800000000000000
+      internalID: -369160081538992907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repetidora_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 13
+        width: 171
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da66a4eafe78b8e0800000000000000
+      internalID: -1677451245152474411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      repetidora_0: -1164344475644410519
+      repetidora_1: 334974287321993234
+      repetidora_10: 6503301761601038397
+      repetidora_11: 8471491191331940647
+      repetidora_12: 1187367052206552575
+      repetidora_13: 4635448144867658240
+      repetidora_14: -4865846743910009981
+      repetidora_15: -1600163952400840478
+      repetidora_16: -3114071218501416738
+      repetidora_17: -7617262513892274429
+      repetidora_18: -3571866254999676958
+      repetidora_19: -7132669170918246319
+      repetidora_2: 2870181724486322090
+      repetidora_20: 3827325618993093855
+      repetidora_21: 6670262665338657595
+      repetidora_22: 2270137425099334746
+      repetidora_23: -369160081538992907
+      repetidora_24: -1677451245152474411
+      repetidora_3: -2104049545113001153
+      repetidora_4: -6731164385434538849
+      repetidora_5: 8707707363647001871
+      repetidora_6: -8776077877583917949
+      repetidora_7: -508012566938405875
+      repetidora_8: 4428250494562185654
+      repetidora_9: -1292063406798044443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

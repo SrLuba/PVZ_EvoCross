@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: ee52057ab8e54c54a9d386d392f2d6fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7670225986261467839
+    second: pults_xd2_0
+  - first:
+      213: -8355488296736675820
+    second: pults_xd2_1
+  - first:
+      213: 7061240380845492451
+    second: pults_xd2_2
+  - first:
+      213: -7132013108445824187
+    second: pults_xd2_3
+  - first:
+      213: 7161233191346173938
+    second: pults_xd2_4
+  - first:
+      213: 6101379758379901408
+    second: pults_xd2_5
+  - first:
+      213: 255910450105426913
+    second: pults_xd2_6
+  - first:
+      213: -8389393718369945694
+    second: pults_xd2_7
+  - first:
+      213: -888487103047340535
+    second: pults_xd2_8
+  - first:
+      213: 8824625636502351200
+    second: pults_xd2_9
+  - first:
+      213: 2083971779889549743
+    second: pults_xd2_10
+  - first:
+      213: 7497016743123784199
+    second: pults_xd2_11
+  - first:
+      213: -2263929903314702533
+    second: pults_xd2_12
+  - first:
+      213: 8998902040298082453
+    second: pults_xd2_13
+  - first:
+      213: -2566363918250412386
+    second: pults_xd2_14
+  - first:
+      213: -289004902463863214
+    second: pults_xd2_15
+  - first:
+      213: -8172634605790397878
+    second: pults_xd2_16
+  - first:
+      213: -901021567048500744
+    second: pults_xd2_17
+  - first:
+      213: 1904167594284551719
+    second: pults_xd2_18
+  - first:
+      213: -282618496805881101
+    second: pults_xd2_19
+  - first:
+      213: -2983773667469455875
+    second: pults_xd2_20
+  - first:
+      213: 8619174296713098093
+    second: pults_xd2_21
+  - first:
+      213: -1552818761441708599
+    second: pults_xd2_22
+  - first:
+      213: 8541890999852903092
+    second: pults_xd2_23
+  - first:
+      213: 8205730622990132871
+    second: pults_xd2_24
+  - first:
+      213: -140998926397370770
+    second: pults_xd2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pults_xd2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2c51a55ed127a60800000000000000
+      internalID: 7670225986261467839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418a314d9a75b0c80800000000000000
+      internalID: -8355488296736675820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e880fdd6b09ef160800000000000000
+      internalID: 7061240380845492451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b38a96ddff50d90800000000000000
+      internalID: -7132013108445824187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7fceb45afc16360800000000000000
+      internalID: 7161233191346173938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 29
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e12ef150947ca450800000000000000
+      internalID: 6101379758379901408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 25
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e328d0d23d2d8300800000000000000
+      internalID: 255910450105426913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a77aafacd2e29b80800000000000000
+      internalID: -8389393718369945694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ee85befa57ba3f0800000000000000
+      internalID: -888487103047340535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d2783f24e577a70800000000000000
+      internalID: 8824625636502351200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1514eda41cbec10800000000000000
+      internalID: 2083971779889549743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7029c09c101ca0860800000000000000
+      internalID: 7497016743123784199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fea8c6fb7e490e0800000000000000
+      internalID: -2263929903314702533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59051883ab582ec70800000000000000
+      internalID: 8998902040298082453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96fd401d91726cd0800000000000000
+      internalID: -2566363918250412386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2568b4a829f3dfbf0800000000000000
+      internalID: -289004902463863214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a7cc26028f49e80800000000000000
+      internalID: -8172634605790397878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9bb1998adee73f0800000000000000
+      internalID: -901021567048500744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e042a9656fc6a10800000000000000
+      internalID: 1904167594284551719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3eea79ffe31cf0800000000000000
+      internalID: -282618496805881101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 13
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd815c78a18796d0800000000000000
+      internalID: -2983773667469455875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f2c44b557d9770800000000000000
+      internalID: 8619174296713098093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c574bb4097437ae0800000000000000
+      internalID: -1552818761441708599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baa6548b94ea8670800000000000000
+      internalID: 8541890999852903092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_24
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7862fd9968c90e170800000000000000
+      internalID: 8205730622990132871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pults_xd2_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e8f5639321b0ef0800000000000000
+      internalID: -140998926397370770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pults_xd2_0: 7670225986261467839
+      pults_xd2_1: -8355488296736675820
+      pults_xd2_10: 2083971779889549743
+      pults_xd2_11: 7497016743123784199
+      pults_xd2_12: -2263929903314702533
+      pults_xd2_13: 8998902040298082453
+      pults_xd2_14: -2566363918250412386
+      pults_xd2_15: -289004902463863214
+      pults_xd2_16: -8172634605790397878
+      pults_xd2_17: -901021567048500744
+      pults_xd2_18: 1904167594284551719
+      pults_xd2_19: -282618496805881101
+      pults_xd2_2: 7061240380845492451
+      pults_xd2_20: -2983773667469455875
+      pults_xd2_21: 8619174296713098093
+      pults_xd2_22: -1552818761441708599
+      pults_xd2_23: 8541890999852903092
+      pults_xd2_24: 8205730622990132871
+      pults_xd2_25: -140998926397370770
+      pults_xd2_3: -7132013108445824187
+      pults_xd2_4: 7161233191346173938
+      pults_xd2_5: 6101379758379901408
+      pults_xd2_6: 255910450105426913
+      pults_xd2_7: -8389393718369945694
+      pults_xd2_8: -888487103047340535
+      pults_xd2_9: 8824625636502351200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
